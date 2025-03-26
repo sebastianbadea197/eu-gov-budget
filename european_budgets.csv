@@ -1,0 +1,1461 @@
+TITLU_RAPORT,ANEXA,COD_ORDONATOR,ORDONATOR,CAPITOL,SUBCAPITOL,PARAGRAF,GRUPA,ARTICOL,ALINEAT,DENUMIRE,PROGRAM_2025,ESTIMARI2026,ESTIMARI2027,ESTIMARI2028
+BUGETUL DE STAT,Anexa nr.1,00,Total,0001,01,,,,,VENITURI - TOTAL,357.353.033,349.169.360,349.399.128,367.798.364
+BUGETUL DE STAT,Anexa nr.1,00,Total,0002,01,  ,,,,I.VENITURI CURENTE,278.999.496,296.761.619,317.534.856,339.093.921
+BUGETUL DE STAT,Anexa nr.1,00,Total,0003,01,  ,,,,A.VENITURI FISCALE,234.103.618,251.711.677,270.005.482,289.075.837
+BUGETUL DE STAT,Anexa nr.1,00,Total,0004,01,  ,,,,"A1.IMPOZIT PE VENIT, PROFIT SI CASTIGURI DIN CAPITAL",60.729.767,65.390.577,69.551.838,73.713.645
+BUGETUL DE STAT,Anexa nr.1,00,Total,0005,01,  ,,,,"A11.IMPOZIT PE VENIT, PROFIT SI CASTIGURI DIN CAPITAL DE LA PERSOANE JURIDICE",44.654.554,48.945.383,52.411.055,55.879.628
+BUGETUL DE STAT,Anexa nr.1,00,Total,0101,,,,,,IMPOZIT PE PROFIT,41.160.812,46.228.568,49.629.181,53.036.140
+BUGETUL DE STAT,Anexa nr.1,00,Total,0101,01,,,,, Impozit pe profit de la agentii economici,39.259.016,44.104.350,47.283.538,50.527.169
+BUGETUL DE STAT,Anexa nr.1,00,Total,0101,02,,,,, Impozit pe profit de la bancile comerciale,3.254.672,3.517.681,3.775.336,4.038.214
+BUGETUL DE STAT,Anexa nr.1,00,Total,0101,03,,,,, Sume redirectionate din impozitul pe profit (se scad),-1.352.876,-1.393.463,-1.429.693,-1.529.243
+BUGETUL DE STAT,Anexa nr.1,00,Total,0201,,,,,,"ALTE IMPOZITE PE VENIT, PROFIT SI CASTIGURI DIN CAPITAL DE LA PERSOANE JURIDICE",3.493.742,2.716.815,2.781.874,2.843.488
+BUGETUL DE STAT,Anexa nr.1,00,Total,0201,03,,,,, Impozit pe dividende datorat de persoane juridice,1.257.682,1.288.974,1.316.908,1.343.363
+BUGETUL DE STAT,Anexa nr.1,00,Total,0201,06,,,,, Impozit pe venitul microintreprinderilor,2.291.623,1.485.071,1.523.683,1.560.252
+BUGETUL DE STAT,Anexa nr.1,00,Total,0201,49,,,,,Sume redirectionate din impozitul pe veniturile microintreprinderilor (se scad),-55.563,-57.230,-58.717,-60.127
+BUGETUL DE STAT,Anexa nr.1,00,Total,0300,01,  ,,,,"A12.IMPOZIT PE VENIT, PROFIT SI CASTIGURI DIN CAPITAL DE LA PERSOANE FIZICE",14.740.391,15.070.327,15.730.170,16.389.549
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,,,,,,IMPOZIT PE VENIT,56.046.811,60.317.954,64.282.659,68.287.912
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,02,,,,, Impozit pe venituri din salarii,36.569.117,39.794.021,42.747.063,45.735.551
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,03,,,,, Impozit pe venituri din cedarea folosintei bunurilor,434.658,469.770,504.201,539.290
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,04,,,,, Impozit pe venituri din dividende,7.355.120,7.575.774,7.772.744,7.959.289
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,05,,,,, Impozit pe venituri din dobanzi,930.188,960.885,989.711,1.019.402
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,06,,,,, Impozit pe venituri din pensii,5.092.718,5.504.258,5.907.423,6.318.757
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,07,,,,, Impozit pe veniturile din premii,39.483,40.786,42.010,43.270
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,09,,,,, Impozit pe venituri din transferul titlurilor de valoare,46.570,48.107,49.550,51.037
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,11,,,,, Impozit pe venituri din valorificarea drepturilor de proprietate intelectuala,111.687,120.856,130.199,139.663
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,16,,,,, Impozit pe venituri din activitati desfasurate in baza contractelor/ conventiilor civile incheiate potrivit Codului civil precum si a contractelor de agent,2.254,2.440,2.628,2.819
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,18,,,,, Impozitul pe veniturile din transferul proprietatilor imobiliare din patrimoniul personal,793.695,828.069,861.339,895.860
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,19,,,,, Sume virate pentru sponsorizarea entitatilor non-profit,-454.478,-491.789,-529.806,-568.317
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,21,,,,, Impozit pe veniturile din arenda bunurilor agricole,183.311,189.361,195.041,200.893
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,22,,,,, Impozit pe veniturile din jocuri de noroc,996.525,1.029.410,1.060.292,1.092.101
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,23,,,,," Impozit pe venitul realizat  de persoana fizica dintr-o asociere cu o persoana juridica, contribuabil potrivit titlului II-impozit pe profit, care nu genereaza o persoana juridica",668,688,706,723
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,24,,,,," Impozit pe veniturile realizate de persoana fizica dintr-o asociere cu o persoana juridica, contribuabil potrivit titlului III- impozitul pe veniturile microintreprinderilor, care nu genereaza o persoana juridica",726,747,767,785
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,26,,,,, Impozitul pe veniturile din activitati independente realizate in baza contractelor de activitate sportiva,122.832,126.517,129.807,132.922
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,27,,,,," Plati anticipate in contul impozitului pe venit anual datorat pentru unele venituri din activitati independente, precum si pentru venituri din alte surse",15.212,15.669,16.076,16.462
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,50,,,,, Impozit pe venituri din alte surse,291.634,301.258,310.296,319.605
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,51,,,,, Impozit pe venit aferent declaratiei unice,3.470.242,3.755.139,4.045.428,4.339.484
+BUGETUL DE STAT,Anexa nr.1,00,Total,0301,60,,,,, Regularizari,44.649,45.988,47.184,48.316
+BUGETUL DE STAT,Anexa nr.1,00,Total,0401,,,,,,COTE SI SUME DEFALCATE DIN IMPOZITUL PE VENIT (SE SCAD),-41.306.420,-45.247.627,-48.552.489,-51.898.363
+BUGETUL DE STAT,Anexa nr.1,00,Total,0401,01,,,,, Cote defalcate din impozitul pe venit (se scad),-41.306.420,-45.247.627,-48.552.489,-51.898.363
+BUGETUL DE STAT,Anexa nr.1,00,Total,0500,01,  ,,,,"A13. ALTE IMPOZITE PE VENIT, PROFIT SI CASTIGURI DIN CAPITAL",1.334.822,1.374.867,1.410.613,1.444.468
+BUGETUL DE STAT,Anexa nr.1,00,Total,0501,,,,,,"ALTE IMPOZITE PE VENIT, PROFIT SI CASTIGURI DIN CAPITAL",1.334.822,1.374.867,1.410.613,1.444.468
+BUGETUL DE STAT,Anexa nr.1,00,Total,0501,01,,,,, Impozit pe veniturile realizate de persoanele nerezidente,1.334.822,1.374.867,1.410.613,1.444.468
+BUGETUL DE STAT,Anexa nr.1,00,Total,0700,01,  ,,,,A3.IMPOZITE SI TAXE PE PROPRIETATE,1.047.211,1.078.627,1.106.671,1.133.232
+BUGETUL DE STAT,Anexa nr.1,00,Total,0701,,,,,,IMPOZITE SI TAXE PE PROPRIETATE,1.047.211,1.078.627,1.106.671,1.133.232
+BUGETUL DE STAT,Anexa nr.1,00,Total,0701,04,,,,, Impozit pe constructii,1.034.100,1.065.123,1.092.816,1.119.044
+BUGETUL DE STAT,Anexa nr.1,00,Total,0701,06,,,,,Impozitul special pe bunurile imobile si mobile de valoare mare,13.111,13.504,13.855,14.188
+BUGETUL DE STAT,Anexa nr.1,00,Total,1000,01,  ,,,,A4.IMPOZITE SI TAXE PE BUNURI SI SERVICII,170.238.105,182.985.164,196.924.326,211.637.623
+BUGETUL DE STAT,Anexa nr.1,00,Total,1001,,,,,,TAXA PE VALOAREA ADAUGATA,136.089.244,148.182.499,158.670.020,169.370.127
+BUGETUL DE STAT,Anexa nr.1,00,Total,1101,,,,,,SUME DEFALCATE DIN TVA,-24.343.640,-26.670.825,-27.404.257,-28.175.173
+BUGETUL DE STAT,Anexa nr.1,00,Total,1101,01,,,,, Sume defalcate din taxa pe valoarea adaugata pentru finantarea cheltuielilor descentralizate la nivelul judetelor (se scad),-3.553.321,-3.563.254,-3.572.582,-3.582.189
+BUGETUL DE STAT,Anexa nr.1,00,Total,1101,02,,,,," Sume defalcate din taxa pe valoarea adaugata pentru finantarea cheltuielilor descentralizate la nivelul comunelor, oraselor, municipiilor,sectoarelor si Municipiului Bucuresti (se scad)",-15.799.050,-17.826.853,-18.346.999,-18.882.749
+BUGETUL DE STAT,Anexa nr.1,00,Total,1101,05,,,,, Sume defalcate din taxa pe valoarea adaugata pentru drumuri (se scad),-850.000,-880.000,-900.000,-950.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,1101,06,,,,, Sume defalcate din taxa pe valoarea adaugata pentru echilibrarea bugetelor locale (se scad),-3.203.965,-3.409.847,-3.590.797,-3.763.258
+BUGETUL DE STAT,Anexa nr.1,00,Total,1101,09,,,,, Sume defalcate din  taxa pe valoare adaugata pentru finantarea invatamantului particular si a celui confesional  (se scad),-937.304,-990.871,-993.879,-996.977
+BUGETUL DE STAT,Anexa nr.1,00,Total,1201,,,,,,ALTE IMPOZITE SI TAXE GENERALE PE BUNURI  SI SERVICII,3.940.811,2.889.402,2.801.245,2.868.473
+BUGETUL DE STAT,Anexa nr.1,00,Total,1201,11,,,,,Taxa pe venituri suplimentare obtinute ca urmare a dereglementarii preturilor din sectorul gazelor naturale.,1.725.037,1.776.788,1.822.985,1.866.736
+BUGETUL DE STAT,Anexa nr.1,00,Total,1201,12,,,,,Taxa speciala pentru exploatarea resurselor naturale,94.379,104.894,107.622,110.204
+BUGETUL DE STAT,Anexa nr.1,00,Total,1201,13,,,,,Taxa pe monopolul din sectorul energiei electrice si a gazului metan,158.737,163.499,167.750,171.776
+BUGETUL DE STAT,Anexa nr.1,00,Total,1201,18,,,,, Impozitul suplimentar din vanzarea terenurilor agricole situate in extravilan,4.165,4.290,4.402,4.507
+BUGETUL DE STAT,Anexa nr.1,00,Total,1201,21,,,,,Impozitul pe cifra de afaceri realizata de institutiile de credit,1.321.915,680.786,698.486,715.250
+BUGETUL DE STAT,Anexa nr.1,00,Total,1201,22,,,,,Impozit specific pe cifra de afaceri realizata de agentii economici din sectoarele petrol si gaze naturale,636.578,159.145,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,1401,,,,,,ACCIZE,48.589.307,52.515.784,56.362.346,60.286.880
+BUGETUL DE STAT,Anexa nr.1,00,Total,1601,,,,,,"TAXE PE UTILIZAREA BUNURILOR, AUTORIZAREA UTILIZARII BUNURILOR SAU PE  DESFASURAREA DE ACTIVITATI",5.962.383,6.068.304,6.494.972,7.287.316
+BUGETUL DE STAT,Anexa nr.1,00,Total,1601,01,,,,, Taxe pentru jocurile de noroc,5.265.833,5.691.362,6.108.231,6.533.549
+BUGETUL DE STAT,Anexa nr.1,00,Total,1601,03,,,,, Taxe si tarife pentru eliberarea de licente si autorizatii de functionare,661.176,340.506,349.359,715.487
+BUGETUL DE STAT,Anexa nr.1,00,Total,1601,04,,,,," Taxe pe activitatea de prospectiune, explorare si exploatare a resurselor minerale",34.904,35.951,36.885,37.771
+BUGETUL DE STAT,Anexa nr.1,00,Total,1601,50,,,,," Alte taxe pe utilizarea bunurilor, autorizarea utilizarii bunurilor sau pe desfasurare de activitati",470,485,497,509
+BUGETUL DE STAT,Anexa nr.1,00,Total,1700,01,  ,,,,A5.IMPOZIT PE COMERTUL EXTERIOR SI TRANZACTIILE INTERNATIONALE,2.088.535,2.257.309,2.422.647,2.591.337
+BUGETUL DE STAT,Anexa nr.1,00,Total,1701,,,,,,VENITURI INCADRATE IN RESURSELE PROPRII ALE BUGETULUI UNIUNII EUROPENE,2.088.535,2.257.309,2.422.647,2.591.337
+BUGETUL DE STAT,Anexa nr.1,00,Total,1701,01,,,,, Taxe vamale,2.088.535,2.257.309,2.422.647,2.591.337
+BUGETUL DE STAT,Anexa nr.1,00,Total,2000,01,  ,,,,B.CONTRIBUTII DE ASIGURARI,18.079.565,19.383.863,20.699.766,22.027.746
+BUGETUL DE STAT,Anexa nr.1,00,Total,2001,,,,,,CONTRIBUTIILE ANGAJATORILOR,9.881.448,10.512.876,11.143.184,11.776.063
+BUGETUL DE STAT,Anexa nr.1,00,Total,2001,05,,,,," Varsaminte de la persoane juridice, pentru persoane cu handicap neincadrate",3.448.848,3.552.313,3.644.673,3.732.146
+BUGETUL DE STAT,Anexa nr.1,00,Total,2001,08,,,,, Venituri din contributia asiguratorie pentru munca aferenta bugetului de stat,6.432.600,6.960.563,7.498.511,8.043.917
+BUGETUL DE STAT,Anexa nr.1,00,Total,2101,,,,,,CONTRIBUTIILE ASIGURATILOR,8.198.117,8.870.987,9.556.582,10.251.683
+BUGETUL DE STAT,Anexa nr.1,00,Total,2101,50,,,,, Alte contributii pentru asigurari sociale datorate de asigurati,8.198.117,8.870.987,9.556.582,10.251.683
+BUGETUL DE STAT,Anexa nr.1,00,Total,2900,01,  ,,,,C.VENITURI NEFISCALE,26.816.313,25.666.079,26.829.608,27.990.338
+BUGETUL DE STAT,Anexa nr.1,00,Total,3000,01,  ,,,,C1.VENITURI DIN PROPRIETATE,21.562.235,22.258.985,23.277.186,24.291.366
+BUGETUL DE STAT,Anexa nr.1,00,Total,3001,,,,,,VENITURI DIN PROPRIETATE,15.670.667,16.190.670,17.051.095,17.915.849
+BUGETUL DE STAT,Anexa nr.1,00,Total,3001,01,,,,, Varsaminte din profitul net al regiilor autonome,349.668,360.158,369.522,378.390
+BUGETUL DE STAT,Anexa nr.1,00,Total,3001,04,,,,, Varsaminte din veniturile nete al Bancii Nationale  a Romaniei,3.857.529,3.973.255,4.076.560,4.174.397
+BUGETUL DE STAT,Anexa nr.1,00,Total,3001,05,,,,, Venituri din concesiuni si inchirieri,2.480.910,2.555.338,2.621.776,2.684.699
+BUGETUL DE STAT,Anexa nr.1,00,Total,3001,08,,,,, Venituri din dividende,8.000.621,8.240.640,8.844.233,9.460.060
+BUGETUL DE STAT,Anexa nr.1,00,Total,3001,11,,,,,Venituri din vanzarea certificatelor de emisii  de gaze cu efect de sera,981.739,1.061.073,1.138.792,1.218.086
+BUGETUL DE STAT,Anexa nr.1,00,Total,3001,50,,,,, Alte venituri din proprietate,200,206,212,217
+BUGETUL DE STAT,Anexa nr.1,00,Total,3101,,,,,,VENITURI DIN DOBANZI,5.891.568,6.068.315,6.226.091,6.375.517
+BUGETUL DE STAT,Anexa nr.1,00,Total,3101,03,,,,, Alte venituri din dobanzi,5.891.568,6.068.315,6.226.091,6.375.517
+BUGETUL DE STAT,Anexa nr.1,00,Total,3300,01,  ,,,,C2.VANZARI DE BUNURI SI SERVICII,5.254.078,3.407.094,3.552.422,3.698.972
+BUGETUL DE STAT,Anexa nr.1,00,Total,3301,,,,,,VENITURI DIN PRESTARI DE SERVICII SI ALTE ACTIVITATI,622.656,641.336,658.011,673.804
+BUGETUL DE STAT,Anexa nr.1,00,Total,3301,02,,,,, Taxe consulare,145.408,149.771,153.665,157.353
+BUGETUL DE STAT,Anexa nr.1,00,Total,3301,08,,,,, Venituri din prestari de servicii,271.613,279.761,287.035,293.924
+BUGETUL DE STAT,Anexa nr.1,00,Total,3301,09,,,,, Taxe si alte venituri din protectia mediului,21.219,21.856,22.424,22.962
+BUGETUL DE STAT,Anexa nr.1,00,Total,3301,16,,,,, Venituri din valorificarea produselor obtinute din activitatea proprie sau anexa,204,210,215,221
+BUGETUL DE STAT,Anexa nr.1,00,Total,3301,17,,,,," Venituri din organizarea de cursuri de calificare si conversie profesionala, specializare si perfectionare",5.178,5.333,5.472,5.603
+BUGETUL DE STAT,Anexa nr.1,00,Total,3301,21,,,,,Venituri din contractele incheiate cu casele de asigurari sociale de sanatate,1.293,1.331,1.366,1.399
+BUGETUL DE STAT,Anexa nr.1,00,Total,3301,25,,,,, Venituri din recuperarea cheltuielilor judiciare avansate de stat,81.297,83.736,85.913,87.975
+BUGETUL DE STAT,Anexa nr.1,00,Total,3301,26,,,,, Venituri din despagubiri,82.995,85.485,87.708,89.813
+BUGETUL DE STAT,Anexa nr.1,00,Total,3301,29,,,,, Tarife incasate pentru emiterea unei solutii fiscale individuale anticipate si pentru emiterea sau modificarea unui acord de pret in avans,2.566,2.643,2.712,2.777
+BUGETUL DE STAT,Anexa nr.1,00,Total,3301,50,,,,, Alte venituri din prestari de servicii si alte activitati,10.883,11.210,11.501,11.777
+BUGETUL DE STAT,Anexa nr.1,00,Total,3401,,,,,,"VENITURI DIN TAXE ADMINISTRATIVE, ELIBERARI PERMISE",1.561,1.608,1.650,1.689
+BUGETUL DE STAT,Anexa nr.1,00,Total,3401,01,,,,, Venituri din taxe pentru eliberari de permise si certificate,199,205,210,215
+BUGETUL DE STAT,Anexa nr.1,00,Total,3401,50,,,,," Alte venituri din taxe administrative, eliberari permise",1.362,1.403,1.440,1.474
+BUGETUL DE STAT,Anexa nr.1,00,Total,3501,,,,,,"AMENZI, PENALITATI SI CONFISCARI",1.333.765,1.437.377,1.539.463,1.644.063
+BUGETUL DE STAT,Anexa nr.1,00,Total,3501,01,,,,, Venituri din amenzi si alte sanctiuni aplicate potrivit dispozitiilor legale,790.206,849.893,908.949,969.646
+BUGETUL DE STAT,Anexa nr.1,00,Total,3501,02,,,,, Penalitati pentru nedepunerea sau depunerea cu intarziere declaratiei de impozite si taxe,149,161,173,185
+BUGETUL DE STAT,Anexa nr.1,00,Total,3501,03,,,,," Incasari din valorificarea bunurilor confiscate, abandonate si alte sume constatate odata cu confiscarea potrivit legii",80.592,87.105,93.485,99.994
+BUGETUL DE STAT,Anexa nr.1,00,Total,3501,04,,,,, Majorari de intarziere pentru venituri nevarsate la termen,75,81,87,93
+BUGETUL DE STAT,Anexa nr.1,00,Total,3501,05,,,,, Amenzi judiciare,20.939,22.631,24.289,25.980
+BUGETUL DE STAT,Anexa nr.1,00,Total,3501,06,,,,, Incasari rezultate din valorificarea bunurilor confiscate ca urmare a savarsirii infractiunilor la regimul drogurilor si precursorilor,2.215,2.394,2.569,2.748
+BUGETUL DE STAT,Anexa nr.1,00,Total,3501,07,,,,,Penalitati datorate in cazul esalonarilor la plata,176.989,191.291,205.302,219.598
+BUGETUL DE STAT,Anexa nr.1,00,Total,3501,08,,,,,Penalitati de nedeclarare,244.807,264.590,283.970,303.743
+BUGETUL DE STAT,Anexa nr.1,00,Total,3501,50,,,,," Alte amenzi, penalitati si confiscari",17.793,19.231,20.639,22.076
+BUGETUL DE STAT,Anexa nr.1,00,Total,3601,,,,,,DIVERSE VENITURI,3.296.096,1.326.773,1.353.298,1.379.416
+BUGETUL DE STAT,Anexa nr.1,00,Total,3601,01,,,,, Venituri din aplicarea prescriptiei extinctive,329.611,339.499,348.326,356.686
+BUGETUL DE STAT,Anexa nr.1,00,Total,3601,02,,,,," Venituri din recuperarea cheltuielilor de judecata, imputatii si despagubiri",19.018,19.588,20.098,20.580
+BUGETUL DE STAT,Anexa nr.1,00,Total,3601,03,,,,, Sume din recuperarea debitelor provenite din drepturile necuvenite,52.543,54.119,55.526,56.859
+BUGETUL DE STAT,Anexa nr.1,00,Total,3601,11,,,,, Venituri din ajutoare de stat recuperate,2.123.302,127.001,130.303,133.430
+BUGETUL DE STAT,Anexa nr.1,00,Total,3601,14,,,,, Venituri din recuperarea cheltuielilor efectuate in cursul procesului de executare silita,2.552,2.629,2.697,2.762
+BUGETUL DE STAT,Anexa nr.1,00,Total,3601,16,,,,," Sume reprezentand ajutorul comunitar pentru furnizarea laptelui, produselor lactate si a fructelor in institutiile scolare",76.511,78.806,80.855,82.795
+BUGETUL DE STAT,Anexa nr.1,00,Total,3601,19,,,,, Venituri din recuperarea creantelor fiscale,1.092,1.125,1.154,1.182
+BUGETUL DE STAT,Anexa nr.1,00,Total,3601,28,,,,, Comision de risc aferent programului de stimulare a cupararii de autoturisme,14,14,15,15
+BUGETUL DE STAT,Anexa nr.1,00,Total,3601,32,,,,, Comisionul de risc aferent programelor guvernamentale pentru IMM-uri,58.405,60.157,61.721,63.203
+BUGETUL DE STAT,Anexa nr.1,00,Total,3601,33,,,,,Taxa speciala datorata de agentiile/ autoritatile/ institutiile autonome,131.853,121.808,111.975,103.663
+BUGETUL DE STAT,Anexa nr.1,00,Total,3601,50,,,,, Alte venituri,501.160,521.991,540.591,558.203
+BUGETUL DE STAT,Anexa nr.1,00,Total,3601,51,,,,," Sume recuperate din contracte de prestari servicii, potrivit prevederilor OUG nr. 63/2020",35,36,37,38
+BUGETUL DE STAT,Anexa nr.1,00,Total,3900,01,  ,,,,II.VENITURI DIN CAPITAL,350.000,360.501,369.871,378.751
+BUGETUL DE STAT,Anexa nr.1,00,Total,3901,,,,,,VENITURI DIN VALORIFICAREA UNOR BUNURI,350.000,360.501,369.871,378.751
+BUGETUL DE STAT,Anexa nr.1,00,Total,3901,01,,,,, Venituri din valorificarea unor bunuri ale institutiilor publice,10.428,10.741,11.020,11.285
+BUGETUL DE STAT,Anexa nr.1,00,Total,3901,03,,,,, Venituri din vanzarea locuintelor construite din fondurile statului,37.662,38.792,39.801,40.756
+BUGETUL DE STAT,Anexa nr.1,00,Total,3901,06,,,,, Venituri obtinute in procesul de stingere a creantelor bugetare,265.919,273.897,281.018,287.763
+BUGETUL DE STAT,Anexa nr.1,00,Total,3901,07,,,,, Venituri din vanzarea unor bunuri apartinand domeniului privat al statului sau a unitatilor administativ-teritoriale,439,452,464,475
+BUGETUL DE STAT,Anexa nr.1,00,Total,3901,08,,,,, Venituri obtinute in procesul de cesiune a creantelor fiscale,959,988,1.013,1.038
+BUGETUL DE STAT,Anexa nr.1,00,Total,3901,09,,,,," Venituri rezultate din garantiile acordate si platite institutiilor de credit in cadrul programului ""Prima casa/Noua casa""",8.770,9.033,9.268,9.490
+BUGETUL DE STAT,Anexa nr.1,00,Total,3901,13,,,,, Venituri din recuperarea garantiilor aferente Programului de sustinere a intreprinderilor mci si mijlocii - IMM INVEST ROMANIA,17.128,17.642,18.100,18.535
+BUGETUL DE STAT,Anexa nr.1,00,Total,3901,15,,,,," Venituri din recuperarea garantiilor aferente Programului de sustinere a intreprinderilor mici si mijlocii ""IMM LEASING DE ECHIPAMENTE SI UTILAJE""",24,25,25,26
+BUGETUL DE STAT,Anexa nr.1,00,Total,3901,16,,,,, Venituri din recuperarea garantiilor acordate din bugetul de stat,67,69,70,72
+BUGETUL DE STAT,Anexa nr.1,00,Total,3901,50,,,,, Alte venituri din valorificarea unor bunuri,8.604,8.862,9.092,9.311
+BUGETUL DE STAT,Anexa nr.1,00,Total,4501,,,,,,SUME PRIMITE DE LA UE / ALTI DONATORI IN CONTUL PLATILOR EFECTUATE SI PREFINANTARI,43.447.636,35.042.749,31.494.401,28.325.692
+BUGETUL DE STAT,Anexa nr.1,00,Total,4801,,,,,,SUME PRIMITE DE LA UE/ALTI DONATORI IN CONTUL PLATILOR EFECTUATE SI PREFINANTARI AFERENTE CADRULUI FINANCIAR 2014-2020,7.701.609,1.029,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,4901,,,,,,SUME AFERENTE ASISTENTEI FINANCIARE NERAMBURSABILE ALOCATE PENTRU PNRR,26.854.292,17.003.462,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,4901,02,,,,, Sume rambursate din PNRR,26.854.292,17.003.462,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,,,,,,CHELTUIELI - BUGET DE STAT,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,,,,,,I.Credite de angajament,746.350.352,459.977.318,447.712.635,460.893.273
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,,,,,,II.Credite bugetare,499.582.980,486.466.732,487.383.426,500.083.194
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,01,,,I.Credite de angajament,660.177.806,426.557.282,412.395.964,427.745.421
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,01,,,II.Credite bugetare,476.152.251,464.171.698,456.335.592,467.911.714
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,10,,,I.Credite de angajament,89.787.394,95.145.802,99.901.989,106.870.786
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,10,,,II.Credite bugetare,89.787.394,95.145.802,99.901.989,106.870.786
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,20,,,I.Credite de angajament,14.542.853,15.146.171,16.108.312,17.058.942
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,20,,,II.Credite bugetare,13.181.686,13.853.871,14.259.654,14.625.149
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,30,,,TITLUL III DOBANZI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,30,,,I.Credite de angajament,40.105.646,46.611.353,59.511.353,68.011.353
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,30,,,II.Credite bugetare,40.105.646,46.611.353,59.511.353,68.011.353
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,40,,,TITLUL IV SUBVENTII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,40,,,I.Credite de angajament,10.749.187,6.040.740,5.190.889,5.296.007
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,40,,,II.Credite bugetare,7.633.433,6.085.740,5.190.889,5.296.007
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,50,,,TITLUL V FONDURI DE REZERVA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,50,,,I.Credite de angajament,1.854.315,1.000.000,1.000.000,1.000.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,50,,,II.Credite bugetare,1.854.315,1.000.000,1.000.000,1.000.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,51,,,I.Credite de angajament,106.593.075,88.380.714,79.159.885,80.831.318
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,51,,,II.Credite bugetare,85.033.013,83.114.746,83.185.162,84.029.898
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,55,,,I.Credite de angajament,34.027.395,33.869.036,32.466.478,33.363.450
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,55,,,II.Credite bugetare,27.902.982,29.485.615,29.779.704,30.181.494
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,56,,,I.Credite de angajament,195.608.863,49.287.600,30.594.643,25.659.053
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,56,,,II.Credite bugetare,62.687.256,61.350.496,66.780.365,64.154.691
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,57,,,TITLUL IX ASISTENTA SOCIALA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,57,,,I.Credite de angajament,72.979.580,71.666.659,72.990.414,75.146.125
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,57,,,II.Credite bugetare,72.879.580,71.666.659,72.990.414,75.146.125
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,58,,,I.Credite de angajament,20.331.202,739.432,458.146,1.060.193
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,58,,,II.Credite bugetare,11.937.753,1.380.137,561.694,1.163.591
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,59,,,I.Credite de angajament,13.876.848,15.103.593,14.492.637,12.852.711
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,59,,,II.Credite bugetare,13.878.137,15.103.574,14.492.637,12.852.711
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,60,,,I.Credite de angajament,33.784.522,735.133,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,60,,,II.Credite bugetare,31.694.088,21.986.620,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,61,,,I.Credite de angajament,19.802.107,1.265.913,46.560,4.077
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,61,,,II.Credite bugetare,15.465.268,16.155.722,7.429.793,3.311.732
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,65,,,TITLUL XIV CHELTUIELI AFERENTE PROGRAMELOR CU FINANTARE RAMBURSABILA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,65,,,I.Credite de angajament,6.134.819,1.565.136,474.658,591.406
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,65,,,II.Credite bugetare,2.111.700,1.231.363,1.251.938,1.268.177
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,70,,,I.Credite de angajament,84.591.865,30.653.158,32.477.881,30.252.305
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,70,,,II.Credite bugetare,21.850.048,19.528.156,28.209.044,29.275.933
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,71,,,I.Credite de angajament,79.228.989,30.583.158,32.407.881,30.182.305
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,71,,,II.Credite bugetare,16.487.172,19.458.156,28.139.044,29.205.933
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,72,,,TITLUL XVI ACTIVE FINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,72,,,I.Credite de angajament,5.362.876,70.000,70.000,70.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,72,,,II.Credite bugetare,5.362.876,70.000,70.000,70.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,79,,,OPERATIUNI FINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,79,,,I.Credite de angajament,1.580.681,2.766.878,2.838.790,2.895.547
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,79,,,II.Credite bugetare,1.580.681,2.766.878,2.838.790,2.895.547
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,80,,,TITLUL XVIII IMPRUMUTURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,80,,,I.Credite de angajament,391.000,1.000,1.000,1.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,80,,,II.Credite bugetare,391.000,1.000,1.000,1.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,81,,,TITLUL XIX RAMBURSARI DE CREDITE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,81,,,I.Credite de angajament,1.189.681,2.765.878,2.837.790,2.894.547
+BUGETUL DE STAT,Anexa nr.1,00,Total,5001,  ,  ,81,,,II.Credite bugetare,1.189.681,2.765.878,2.837.790,2.894.547
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,,,,Partea I-a SERVICII PUBLICE GENERALE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,,,,I.Credite de angajament,180.978.983,143.136.201,148.010.918,153.842.974
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,,,,II.Credite bugetare,158.926.582,148.716.578,157.932.371,166.933.155
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,01,,,I.Credite de angajament,175.933.231,139.970.283,144.823.888,150.658.096
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,01,,,II.Credite bugetare,154.954.117,145.632.982,154.772.887,163.697.448
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,10,,,I.Credite de angajament,7.883.990,8.517.667,8.941.493,9.542.910
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,10,,,II.Credite bugetare,7.883.990,8.517.667,8.941.493,9.542.910
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,20,,,I.Credite de angajament,1.946.426,1.926.457,1.964.560,2.041.773
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,20,,,II.Credite bugetare,1.917.937,1.924.420,1.956.234,2.040.153
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,30,,,TITLUL III DOBANZI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,30,,,I.Credite de angajament,40.094.293,46.600.000,59.500.000,68.000.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,30,,,II.Credite bugetare,40.094.293,46.600.000,59.500.000,68.000.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,40,,,TITLUL IV SUBVENTII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,40,,,I.Credite de angajament,44.560,53.300,61.100,70.600
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,40,,,II.Credite bugetare,44.560,53.300,61.100,70.600
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,50,,,TITLUL V FONDURI DE REZERVA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,50,,,I.Credite de angajament,1.854.315,1.000.000,1.000.000,1.000.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,50,,,II.Credite bugetare,1.854.315,1.000.000,1.000.000,1.000.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE  ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,51,,,I.Credite de angajament,39.582.216,42.230.404,40.367.315,41.431.710
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,51,,,II.Credite bugetare,39.582.216,42.230.404,40.367.315,41.431.710
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,55,,,I.Credite de angajament,19.945.843,21.444.811,21.446.302,22.275.277
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,55,,,II.Credite bugetare,20.362.133,22.003.811,22.055.302,22.275.277
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,56,,,I.Credite de angajament,44.335.188,14.079.911,8.631.111,5.373.459
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,56,,,II.Credite bugetare,25.668.743,15.153.440,16.881.958,18.414.431
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,57,,,TITLUL IX ASISTENTA SOCIALA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,57,,,I.Credite de angajament,715,558,560,561
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,57,,,II.Credite bugetare,715,558,560,561
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,58,,,I.Credite de angajament,4.934.207,9.607,16.605,24.546
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,58,,,II.Credite bugetare,5.086.316,9.607,16.605,24.546
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,59,,,I.Credite de angajament,3.147.127,3.887.704,2.890.765,893.183
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,59,,,II.Credite bugetare,3.147.127,3.887.704,2.890.765,893.183
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,60,,,I.Credite de angajament,4.797.136,10.509,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,60,,,II.Credite bugetare,5.755.175,401.448,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,61,,,I.Credite de angajament,7.367.215,209.355,4.077,4.077
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,61,,,II.Credite bugetare,3.556.597,3.850.623,1.101.555,4.077
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,70,,,I.Credite de angajament,3.986.290,532.745,485.395,429.210
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,70,,,II.Credite bugetare,2.913.003,450.423,457.849,480.039
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,71,,,I.Credite de angajament,1.623.414,462.745,415.395,359.210
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,71,,,II.Credite bugetare,550.127,380.423,387.849,410.039
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,72,,,TITLUL XVI ACTIVE FINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,72,,,I.Credite de angajament,2.362.876,70.000,70.000,70.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,72,,,II.Credite bugetare,2.362.876,70.000,70.000,70.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,79,,,OPERATIUNI FINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,79,,,I.Credite de angajament,1.059.462,2.633.173,2.701.635,2.755.668
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,79,,,II.Credite bugetare,1.059.462,2.633.173,2.701.635,2.755.668
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,81,,,TITLUL XIX RAMBURSARI DE CREDITE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,81,,,I.Credite de angajament,1.059.462,2.633.173,2.701.635,2.755.668
+BUGETUL DE STAT,Anexa nr.1,00,Total,5100,01,  ,81,,,II.Credite bugetare,1.059.462,2.633.173,2.701.635,2.755.668
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,,,,,,AUTORITATI PUBLICE SI ACTIUNI EXTERNE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,,,,,,I.Credite de angajament,90.169.187,43.666.125,38.752.660,36.116.814
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,,,,,,II.Credite bugetare,67.676.850,48.682.646,48.066.916,49.202.142
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,01,,,I.Credite de angajament,88.566.678,43.203.580,38.337.465,35.757.804
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,01,,,II.Credite bugetare,67.132.628,48.307.423,47.684.267,48.797.303
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,10,,,I.Credite de angajament,7.521.200,8.130.492,8.536.759,9.112.365
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,10,,,II.Credite bugetare,7.521.200,8.130.492,8.536.759,9.112.365
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,20,,,I.Credite de angajament,1.344.898,1.359.161,1.376.638,1.445.028
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,20,,,II.Credite bugetare,1.328.793,1.357.268,1.375.115,1.443.555
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,40,,,TITLUL IV SUBVENTII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,40,,,I.Credite de angajament,44.560,53.300,61.100,70.600
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,40,,,II.Credite bugetare,44.560,53.300,61.100,70.600
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,51,,,I.Credite de angajament,202.992,73.873,75.058,76.737
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,51,,,II.Credite bugetare,202.992,73.873,75.058,76.737
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,55,,,I.Credite de angajament,18.257.913,19.465.391,19.624.292,19.651.148
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,55,,,II.Credite bugetare,18.235.183,19.465.391,19.624.292,19.651.148
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,56,,,I.Credite de angajament,44.292.411,14.029.716,8.581.006,5.323.354
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,56,,,II.Credite bugetare,25.625.966,15.103.245,16.831.853,18.364.326
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,57,,,TITLUL IX ASISTENTA SOCIALA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,57,,,I.Credite de angajament,715,558,560,561
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,57,,,II.Credite bugetare,715,558,560,561
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,58,,,I.Credite de angajament,4.934.207,9.607,16.605,24.546
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,58,,,II.Credite bugetare,5.058.016,9.607,16.605,24.546
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,59,,,I.Credite de angajament,78.431,70.880,65.447,53.465
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,59,,,II.Credite bugetare,78.431,70.880,65.447,53.465
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,60,,,I.Credite de angajament,4.797.136,10.509,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,60,,,II.Credite bugetare,5.755.175,401.448,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,61,,,I.Credite de angajament,7.092.215,93,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,61,,,II.Credite bugetare,3.281.597,3.641.361,1.097.478,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,70,,,I.Credite de angajament,1.602.509,462.545,415.195,359.010
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,70,,,II.Credite bugetare,544.222,375.223,382.649,404.839
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,71,,,I.Credite de angajament,1.602.509,462.545,415.195,359.010
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,  ,  ,71,,,II.Credite bugetare,544.222,375.223,382.649,404.839
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,01,,,,, Autoritati executive si legislative,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,01,,,,,II.Credite bugetare,27.248.585,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,01,01,,,,  Administratia prezidentiala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,01,01,,,,II.Credite bugetare,89.915,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,01,02,,,,  Autoritati legislative,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,01,02,,,,II.Credite bugetare,765.940,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,01,03,,,,  Autoritati executive,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,01,03,,,,II.Credite bugetare,25.429.576,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,01,04,,,,  Alte organe ale autoritatilor publice,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,01,04,,,,II.Credite bugetare,963.154,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,03,,,,, Contributia la bugetul UE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,03,,,,,II.Credite bugetare,17.950.600,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,04,,,,, Cofinantarea fondurilor primite de la Uniunea Europeana,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5101,04,,,,,II.Credite bugetare,22.477.665,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,,,,,,CERCETARE FUNDAMENTALA SI CERCETARE DEZVOLTARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,,,,,,I.Credite de angajament,2.132.120,1.975.610,1.839.985,2.776.397
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,,,,,,II.Credite bugetare,2.584.440,2.539.610,2.453.985,2.781.397
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,01,,,I.Credite de angajament,2.111.215,1.975.410,1.839.785,2.776.197
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,01,,,II.Credite bugetare,2.578.535,2.534.410,2.448.785,2.776.197
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,10,,,I.Credite de angajament,362.790,387.175,404.734,430.545
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,10,,,II.Credite bugetare,362.790,387.175,404.734,430.545
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,20,,,I.Credite de angajament,28.702,30.726,31.394,31.996
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,20,,,II.Credite bugetare,28.702,30.726,31.394,31.996
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,51,,,I.Credite de angajament,8.749,5.988,6.144,6.144
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,51,,,II.Credite bugetare,8.749,5.988,6.144,6.144
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,55,,,I.Credite de angajament,1.340.805,1.242.498,1.292.504,2.201.509
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,55,,,II.Credite bugetare,1.779.825,1.801.498,1.901.504,2.201.509
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,56,,,I.Credite de angajament,42.777,50.195,50.105,50.105
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,56,,,II.Credite bugetare,42.777,50.195,50.105,50.105
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,58,,,II.Credite bugetare,28.300,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,59,,,I.Credite de angajament,52.392,49.566,50.827,51.821
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,59,,,II.Credite bugetare,52.392,49.566,50.827,51.821
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,61,,,I.Credite de angajament,275.000,209.262,4.077,4.077
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,61,,,II.Credite bugetare,275.000,209.262,4.077,4.077
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,70,,,I.Credite de angajament,20.905,200,200,200
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,70,,,II.Credite bugetare,5.905,5.200,5.200,5.200
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,71,,,I.Credite de angajament,20.905,200,200,200
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,  ,  ,71,,,II.Credite bugetare,5.905,5.200,5.200,5.200
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,01,,,,, Cercetare fundamentala (de baza),,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,01,,,,,II.Credite bugetare,435.483,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,02,,,,, Cercetare si dezvoltare pentru servicii publice generale,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5301,02,,,,,II.Credite bugetare,2.148.957,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,,,,,,ALTE SERVICII PUBLICE GENERALE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,,,,,,I.Credite de angajament,7.911.296,5.924.810,4.732.352,2.648.002
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,,,,,,II.Credite bugetare,7.911.152,5.924.666,4.732.204,2.647.855
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,01,,,I.Credite de angajament,5.548.420,5.854.810,4.662.352,2.578.002
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,01,,,II.Credite bugetare,5.548.276,5.854.666,4.662.204,2.577.855
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,20,,,I.Credite de angajament,330.676,350.630,358.355,367.485
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,20,,,II.Credite bugetare,330.532,350.486,358.207,367.338
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,50,,,TITLUL V FONDURI DE REZERVA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,50,,,I.Credite de angajament,1.854.315,1.000.000,1.000.000,1.000.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,50,,,II.Credite bugetare,1.854.315,1.000.000,1.000.000,1.000.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,55,,,I.Credite de angajament,347.125,736.922,529.506,422.620
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,55,,,II.Credite bugetare,347.125,736.922,529.506,422.620
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,59,,,I.Credite de angajament,3.016.304,3.767.258,2.774.491,787.897
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,59,,,II.Credite bugetare,3.016.304,3.767.258,2.774.491,787.897
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,70,,,I.Credite de angajament,2.362.876,70.000,70.000,70.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,70,,,II.Credite bugetare,2.362.876,70.000,70.000,70.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,72,,,TITLUL XVI ACTIVE FINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,72,,,I.Credite de angajament,2.362.876,70.000,70.000,70.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,  ,  ,72,,,II.Credite bugetare,2.362.876,70.000,70.000,70.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,02,,,,, Fond de rezerva bugetara la dispozitia Guvernului,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,02,,,,,II.Credite bugetare,1.854.315,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,11,,,,, Asistenta nationala externa pentru dezvoltare,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,11,,,,,II.Credite bugetare,29.400,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,14,,,,," Plata valorii de executare a garantiei in cadrul programului ""Prima casa/Noua casa""",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,14,,,,,II.Credite bugetare,15.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,15,,,,,Sume rezultate din executarea garantiilor acordate din bugetul de stat,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,15,,,,,II.Credite bugetare,300.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,50,,,,, Alte servicii publice generale,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5401,50,,,,,II.Credite bugetare,5.712.437,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,,,,,,TRANZACTII PRIVIND DATORIA PUBLICA SI IMPRUMUTURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,,,,,,I.Credite de angajament,41.469.180,49.586.397,62.571.442,71.127.998
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,,,,,,II.Credite bugetare,41.456.940,49.586.397,62.564.787,71.127.998
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,01,,,I.Credite de angajament,40.409.718,46.953.224,59.869.807,68.372.330
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,01,,,II.Credite bugetare,40.397.478,46.953.224,59.863.152,68.372.330
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,20,,,I.Credite de angajament,242.150,185.940,198.173,197.264
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,20,,,II.Credite bugetare,229.910,185.940,191.518,197.264
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,30,,,TITLUL III DOBANZI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,30,,,I.Credite de angajament,40.094.293,46.600.000,59.500.000,68.000.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,30,,,II.Credite bugetare,40.094.293,46.600.000,59.500.000,68.000.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,51,,,I.Credite de angajament,73.275,167.284,171.634,175.066
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,51,,,II.Credite bugetare,73.275,167.284,171.634,175.066
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,79,,,OPERATIUNI FINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,79,,,I.Credite de angajament,1.059.462,2.633.173,2.701.635,2.755.668
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,79,,,II.Credite bugetare,1.059.462,2.633.173,2.701.635,2.755.668
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,81,,,TITLUL XIX RAMBURSARI DE CREDITE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,81,,,I.Credite de angajament,1.059.462,2.633.173,2.701.635,2.755.668
+BUGETUL DE STAT,Anexa nr.1,00,Total,5501,  ,  ,81,,,II.Credite bugetare,1.059.462,2.633.173,2.701.635,2.755.668
+BUGETUL DE STAT,Anexa nr.1,00,Total,5601,,,,,,TRANSFERURI CU CARACTER GENERAL INTRE DIFERITE NIVELE ALE ADMINISTRATIEI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5601,,,,,,I.Credite de angajament,39.297.200,41.983.259,40.114.479,41.173.763
+BUGETUL DE STAT,Anexa nr.1,00,Total,5601,,,,,,II.Credite bugetare,39.297.200,41.983.259,40.114.479,41.173.763
+BUGETUL DE STAT,Anexa nr.1,00,Total,5601,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5601,  ,  ,01,,,I.Credite de angajament,39.297.200,41.983.259,40.114.479,41.173.763
+BUGETUL DE STAT,Anexa nr.1,00,Total,5601,  ,  ,01,,,II.Credite bugetare,39.297.200,41.983.259,40.114.479,41.173.763
+BUGETUL DE STAT,Anexa nr.1,00,Total,5601,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5601,  ,  ,51,,,I.Credite de angajament,39.297.200,41.983.259,40.114.479,41.173.763
+BUGETUL DE STAT,Anexa nr.1,00,Total,5601,  ,  ,51,,,II.Credite bugetare,39.297.200,41.983.259,40.114.479,41.173.763
+BUGETUL DE STAT,Anexa nr.1,00,Total,5601,02,,,,, Transferuri din bugetul de stat catre bugetul asigurarilor sociale de stat,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5601,02,,,,,II.Credite bugetare,35.443.076,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5601,04,,,,, Transferuri din bugetul de stat catre bugetul fondului de asigurari sociale de sanatate,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,5601,04,,,,,II.Credite bugetare,3.854.124,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,,,,"Partea a II-a APARARE,ORDINE PUBLICA SI SIGURANTA NATIONALA",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,,,,I.Credite de angajament,131.745.113,82.481.195,86.851.125,89.012.589
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,,,,II.Credite bugetare,68.721.591,71.622.934,82.115.824,86.705.062
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,01,,,I.Credite de angajament,57.325.533,53.064.878,55.667.820,59.993.782
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,01,,,II.Credite bugetare,53.727.195,53.562.981,55.312.120,58.750.741
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,10,,,I.Credite de angajament,39.970.721,42.321.658,44.429.173,47.534.252
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,10,,,II.Credite bugetare,39.970.721,42.321.658,44.429.173,47.534.252
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,20,,,I.Credite de angajament,6.059.442,6.384.155,7.040.969,7.694.083
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,20,,,II.Credite bugetare,4.774.024,5.142.467,5.252.355,5.319.215
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE  ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,51,,,I.Credite de angajament,3.625.342,3.398.018,3.261.945,3.681.233
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,51,,,II.Credite bugetare,3.409.192,3.586.305,3.827.813,4.070.239
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,55,,,I.Credite de angajament,708.004,647.560,727.033,844.722
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,55,,,II.Credite bugetare,651.731,699.613,761.504,854.602
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,56,,,I.Credite de angajament,2.275.405,103.526,24.281,47.121
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,56,,,II.Credite bugetare,1.489.925,716.261,643.788,567.046
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,57,,,TITLUL IX ASISTENTA SOCIALA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,57,,,I.Credite de angajament,109.708,117.212,125.465,134.500
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,57,,,II.Credite bugetare,109.708,117.212,125.465,134.500
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,58,,,I.Credite de angajament,64.541,2.660,3.120,1.630
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,58,,,II.Credite bugetare,62.789,2.660,3.120,1.630
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,59,,,I.Credite de angajament,33.057,28.451,28.902,29.257
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,59,,,II.Credite bugetare,33.057,28.451,28.902,29.257
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,60,,,I.Credite de angajament,3.824.358,13.121,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,60,,,II.Credite bugetare,2.670.479,563.799,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,61,,,I.Credite de angajament,135.826,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,61,,,II.Credite bugetare,290.569,144.555,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,65,,,TITLUL XIV CHELTUIELI AFERENTE PROGRAMELOR CU FINANTARE RAMBURSABILA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,65,,,I.Credite de angajament,519.129,48.517,26.932,26.984
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,65,,,II.Credite bugetare,265.000,240.000,240.000,240.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,70,,,I.Credite de angajament,74.419.580,29.416.317,31.183.305,29.018.807
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,70,,,II.Credite bugetare,14.994.396,18.059.953,26.803.704,27.954.321
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,71,,,I.Credite de angajament,74.419.580,29.416.317,31.183.305,29.018.807
+BUGETUL DE STAT,Anexa nr.1,00,Total,6000,01,  ,71,,,II.Credite bugetare,14.994.396,18.059.953,26.803.704,27.954.321
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,,,,,,APARARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,,,,,,I.Credite de angajament,84.875.604,44.347.626,46.955.881,46.684.975
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,,,,,,II.Credite bugetare,27.327.244,32.112.663,41.667.015,43.735.535
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,01,,,I.Credite de angajament,15.075.689,16.541.223,17.782.113,19.373.888
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,01,,,II.Credite bugetare,13.762.589,15.384.394,16.065.589,17.015.544
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,10,,,I.Credite de angajament,10.093.160,11.233.403,11.811.549,12.672.907
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,10,,,II.Credite bugetare,10.093.160,11.233.403,11.811.549,12.672.907
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,20,,,I.Credite de angajament,3.762.500,3.977.297,4.542.016,5.140.148
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,20,,,II.Credite bugetare,2.505.673,2.768.415,2.791.021,2.771.924
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,51,,,I.Credite de angajament,429.817,583.855,614.363,622.412
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,51,,,II.Credite bugetare,429.817,583.855,614.363,622.412
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,55,,,I.Credite de angajament,675.982,611.673,690.212,807.165
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,55,,,II.Credite bugetare,619.709,663.726,724.683,817.045
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,56,,,I.Credite de angajament,8.458,21.700,1.600,1.800
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,56,,,II.Credite bugetare,8.458,21.700,1.600,1.800
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,57,,,TITLUL IX ASISTENTA SOCIALA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,57,,,I.Credite de angajament,103.420,110.527,118.430,127.003
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,57,,,II.Credite bugetare,103.420,110.527,118.430,127.003
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,58,,,I.Credite de angajament,1.620,1.945,3.120,1.630
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,58,,,II.Credite bugetare,1.620,1.945,3.120,1.630
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,59,,,I.Credite de angajament,732,823,823,823
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,59,,,II.Credite bugetare,732,823,823,823
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,70,,,I.Credite de angajament,69.799.915,27.806.403,29.173.768,27.311.087
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,70,,,II.Credite bugetare,13.564.655,16.728.269,25.601.426,26.719.991
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,71,,,I.Credite de angajament,69.799.915,27.806.403,29.173.768,27.311.087
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,  ,  ,71,,,II.Credite bugetare,13.564.655,16.728.269,25.601.426,26.719.991
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,01,,,,, Administratie centrala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,01,,,,,II.Credite bugetare,1.005.343,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,02,,,,, Aparare nationala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,02,,,,,II.Credite bugetare,25.531.154,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,03,,,,, Participarea la misiuni si operatiuni militare in afara teritoriului statului roman,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,03,,,,,II.Credite bugetare,443.655,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,25,,,,, Cercetare si dezvoltare pentru aparare,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,25,,,,,II.Credite bugetare,181.769,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,50,,,,, Alte cheltuieli in domeniul apararii,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,50,,,,,II.Credite bugetare,165.323,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,50,01,,,, Structuri militare nationale,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,50,01,,,,II.Credite bugetare,48.389,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,50,02,,,, Structuri militare multinationale dislocate pe teritoriul statului roman,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6001,50,02,,,,II.Credite bugetare,116.934,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,,,,,,ORDINE PUBLICA SI SIGURANTA NATIONALA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,,,,,,I.Credite de angajament,46.869.509,38.133.569,39.895.244,42.327.614
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,,,,,,II.Credite bugetare,41.394.347,39.510.271,40.448.809,42.969.527
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,01,,,I.Credite de angajament,42.249.844,36.523.655,37.885.707,40.619.894
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,01,,,II.Credite bugetare,39.964.606,38.178.587,39.246.531,41.735.197
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,10,,,I.Credite de angajament,29.877.561,31.088.255,32.617.624,34.861.345
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,10,,,II.Credite bugetare,29.877.561,31.088.255,32.617.624,34.861.345
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,20,,,I.Credite de angajament,2.296.942,2.406.858,2.498.953,2.553.935
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,20,,,II.Credite bugetare,2.268.351,2.374.052,2.461.334,2.547.291
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,51,,,I.Credite de angajament,3.195.525,2.814.163,2.647.582,3.058.821
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,51,,,II.Credite bugetare,2.979.375,3.002.450,3.213.450,3.447.827
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,55,,,I.Credite de angajament,32.022,35.887,36.821,37.557
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,55,,,II.Credite bugetare,32.022,35.887,36.821,37.557
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,56,,,I.Credite de angajament,2.266.947,81.826,22.681,45.321
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,56,,,II.Credite bugetare,1.481.467,694.561,642.188,565.246
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,57,,,TITLUL IX ASISTENTA SOCIALA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,57,,,I.Credite de angajament,6.288,6.685,7.035,7.497
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,57,,,II.Credite bugetare,6.288,6.685,7.035,7.497
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,58,,,I.Credite de angajament,62.921,715,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,58,,,II.Credite bugetare,61.169,715,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,59,,,I.Credite de angajament,32.325,27.628,28.079,28.434
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,59,,,II.Credite bugetare,32.325,27.628,28.079,28.434
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,60,,,I.Credite de angajament,3.824.358,13.121,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,60,,,II.Credite bugetare,2.670.479,563.799,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,61,,,I.Credite de angajament,135.826,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,61,,,II.Credite bugetare,290.569,144.555,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,65,,,TITLUL XIV CHELTUIELI AFERENTE PROGRAMELOR CU FINANTARE RAMBURSABILA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,65,,,I.Credite de angajament,519.129,48.517,26.932,26.984
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,65,,,II.Credite bugetare,265.000,240.000,240.000,240.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,70,,,I.Credite de angajament,4.619.665,1.609.914,2.009.537,1.707.720
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,70,,,II.Credite bugetare,1.429.741,1.331.684,1.202.278,1.234.330
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,71,,,I.Credite de angajament,4.619.665,1.609.914,2.009.537,1.707.720
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,  ,  ,71,,,II.Credite bugetare,1.429.741,1.331.684,1.202.278,1.234.330
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,01,,,,, Administratia centrala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,01,,,,,II.Credite bugetare,4.186.348,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,03,,,,, Ordine publica,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,03,,,,,II.Credite bugetare,14.184.466,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,03,01,,,,  Politie,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,03,01,,,,II.Credite bugetare,8.762.874,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,03,02,,,,  Jandarmerie,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,03,02,,,,II.Credite bugetare,3.293.859,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,03,03,,,,  Paza si supravegherea frontierei,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,03,03,,,,II.Credite bugetare,2.127.733,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,04,,,,, Siguranta nationala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,04,,,,,II.Credite bugetare,7.019.042,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,05,,,,, Protectie civila si protectia contra incendiilor,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,05,,,,,II.Credite bugetare,5.138.402,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,06,,,,, Autoritati judecatoresti,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,06,,,,,II.Credite bugetare,2.410.134,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,07,,,,, Penitenciare,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,07,,,,,II.Credite bugetare,2.657.350,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,10,,,,, Structura de sprijin a procurorilor europeni delegati in Romania,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,10,,,,,II.Credite bugetare,13.419,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,25,,,,, Cercetare si dezvoltare pentru ordine publica si siguranta nationala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,25,,,,,II.Credite bugetare,2.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,50,,,,, Alte cheltuieli in domeniul ordinii publice si sigurantei nationale,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6101,50,,,,,II.Credite bugetare,5.783.186,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,,,,Partea a III-a CHELTUIELI SOCIAL CULTURALE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,,,,I.Credite de angajament,183.759.649,160.647.622,160.886.034,167.007.087
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,,,,II.Credite bugetare,168.109.582,167.292.635,163.947.113,168.697.877
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,01,,,I.Credite de angajament,183.208.682,160.374.482,160.513.920,166.641.192
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,01,,,II.Credite bugetare,167.696.007,166.707.584,163.433.499,168.291.352
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,10,,,I.Credite de angajament,40.396.976,42.629.703,44.771.157,47.912.056
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,10,,,II.Credite bugetare,40.396.976,42.629.703,44.771.157,47.912.056
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,20,,,I.Credite de angajament,6.208.228,6.489.375,6.746.325,6.955.922
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,20,,,II.Credite bugetare,6.160.968,6.440.800,6.694.607,6.898.617
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,40,,,TITLUL IV SUBVENTII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,40,,,I.Credite de angajament,33.000,40.000,40.000,40.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,40,,,II.Credite bugetare,33.000,40.000,40.000,40.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE  ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,51,,,I.Credite de angajament,20.490.873,20.867.434,20.790.789,21.665.416
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,51,,,II.Credite bugetare,18.316.544,19.403.810,19.750.505,20.483.996
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,55,,,I.Credite de angajament,1.187.221,1.237.465,1.270.505,1.313.874
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,55,,,II.Credite bugetare,1.187.221,1.237.465,1.270.505,1.313.874
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,56,,,I.Credite de angajament,10.091.149,5.035.295,2.454.747,1.632.461
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,56,,,II.Credite bugetare,3.471.423,5.541.633,6.042.786,4.368.139
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,57,,,TITLUL IX ASISTENTA SOCIALA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,57,,,I.Credite de angajament,72.869.157,71.548.889,72.864.389,75.011.064
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,57,,,II.Credite bugetare,72.769.157,71.548.889,72.864.389,75.011.064
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,58,,,I.Credite de angajament,5.915,1.735,1.368,1.150
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,58,,,II.Credite bugetare,6.135,1.735,1.368,1.150
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,59,,,I.Credite de angajament,10.573.704,11.060.229,11.443.088,11.798.260
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,59,,,II.Credite bugetare,10.573.704,11.060.229,11.443.088,11.798.260
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,60,,,I.Credite de angajament,16.800.061,293.460,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,60,,,II.Credite bugetare,13.138.102,7.399.254,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,61,,,I.Credite de angajament,3.392.839,163.162,42.483,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,61,,,II.Credite bugetare,704.777,960.504,100.000,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,65,,,TITLUL XIV CHELTUIELI AFERENTE PROGRAMELOR CU FINANTARE RAMBURSABILA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,65,,,I.Credite de angajament,1.159.559,1.007.735,89.069,310.989
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,65,,,II.Credite bugetare,938.000,443.562,455.094,464.196
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,70,,,I.Credite de angajament,550.967,273.140,372.114,365.895
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,70,,,II.Credite bugetare,413.575,585.051,513.614,406.525
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,71,,,I.Credite de angajament,550.967,273.140,372.114,365.895
+BUGETUL DE STAT,Anexa nr.1,00,Total,6500,01,  ,71,,,II.Credite bugetare,413.575,585.051,513.614,406.525
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,,,,,,INVATAMANT,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,,,,,,I.Credite de angajament,71.891.918,57.643.428,59.714.423,62.766.716
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,,,,,,II.Credite bugetare,60.295.342,63.585.958,59.617.088,62.588.053
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,01,,,I.Credite de angajament,71.412.372,57.429.188,59.406.534,62.459.461
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,01,,,II.Credite bugetare,59.925.084,63.066.807,59.182.699,62.250.168
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,10,,,I.Credite de angajament,36.790.977,38.932.585,40.890.688,43.761.306
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,10,,,II.Credite bugetare,36.790.977,38.932.585,40.890.688,43.761.306
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,20,,,I.Credite de angajament,317.328,365.524,382.941,406.696
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,20,,,II.Credite bugetare,276.033,322.496,336.583,356.502
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,51,,,I.Credite de angajament,8.735.446,8.957.595,9.454.125,9.409.994
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,51,,,II.Credite bugetare,8.348.211,8.744.800,9.036.962,9.133.627
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,55,,,I.Credite de angajament,81.806,109.827,109.827,109.828
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,55,,,II.Credite bugetare,81.806,109.827,109.827,109.828
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,56,,,I.Credite de angajament,536.372,678.528,132.156,131.822
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,56,,,II.Credite bugetare,534.579,678.407,132.946,132.946
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,57,,,TITLUL IX ASISTENTA SOCIALA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,57,,,I.Credite de angajament,552.179,714.070,732.683,747.402
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,57,,,II.Credite bugetare,552.179,714.070,732.683,747.402
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,59,,,I.Credite de angajament,6.776.697,7.449.939,7.647.631,7.809.271
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,59,,,II.Credite bugetare,6.776.697,7.449.939,7.647.631,7.809.271
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,60,,,I.Credite de angajament,14.058.939,174.120,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,60,,,II.Credite bugetare,5.859.602,5.139.414,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,61,,,I.Credite de angajament,3.265.628,20.000,42.483,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,61,,,II.Credite bugetare,500.000,784.841,100.000,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,65,,,TITLUL XIV CHELTUIELI AFERENTE PROGRAMELOR CU FINANTARE RAMBURSABILA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,65,,,I.Credite de angajament,297.000,27.000,14.000,83.142
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,65,,,II.Credite bugetare,205.000,190.428,195.379,199.286
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,70,,,I.Credite de angajament,479.546,214.240,307.889,307.255
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,70,,,II.Credite bugetare,370.258,519.151,434.389,337.885
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,71,,,I.Credite de angajament,479.546,214.240,307.889,307.255
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,  ,  ,71,,,II.Credite bugetare,370.258,519.151,434.389,337.885
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,01,,,,, Administratie centrala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,01,,,,,II.Credite bugetare,3.840.372,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,02,,,,, Servicii publice descentralizate,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,02,,,,,II.Credite bugetare,6.525.778,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,03,,,,, Invatamant prescolar si primar,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,03,,,,,II.Credite bugetare,14.977.690,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,03,01,,,,  Invatamant prescolar,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,03,01,,,,II.Credite bugetare,7.759.670,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,03,02,,,,  Invatamant primar,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,03,02,,,,II.Credite bugetare,7.218.020,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,04,,,,, Invatamant secundar,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,04,,,,,II.Credite bugetare,19.037.755,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,04,01,,,,  Invatamant secundar inferior,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,04,01,,,,II.Credite bugetare,9.933.827,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,04,02,,,,  Invatamant secundar superior,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,04,02,,,,II.Credite bugetare,8.123.657,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,04,03,,,,  Invatamant profesional,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,04,03,,,,II.Credite bugetare,980.271,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,05,,,,, Invatamant postliceal,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,05,,,,,II.Credite bugetare,463.548,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,06,,,,, Invatamant superior,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,06,,,,,II.Credite bugetare,1.022.337,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,06,01,,,,  Invatamant universitar,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,06,01,,,,II.Credite bugetare,1.022.337,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,07,,,,, Invatamant nedefinibil prin nivel,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,07,,,,,II.Credite bugetare,2.896.636,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,07,02,,,,"  Biblioteci centrale, universitare si pedagogice",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,07,02,,,,II.Credite bugetare,79.039,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,07,04,,,,  Invatamant special,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,07,04,,,,II.Credite bugetare,2.817.597,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,11,,,,, Servicii auxiliare pentru educatie,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,11,,,,,II.Credite bugetare,618.180,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,11,03,,,,  Internate si cantine pentru elevi,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,11,03,,,,II.Credite bugetare,27.586,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,11,30,,,,  Alte servicii auxiliare,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,11,30,,,,II.Credite bugetare,590.594,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,13,,,,, Invatamant anteprescolar,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,13,,,,,II.Credite bugetare,576.345,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,50,,,,, Alte cheltuieli in domeniul invatamantului,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6501,50,,,,,II.Credite bugetare,10.336.701,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,,,,,,SANATATE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,,,,,,I.Credite de angajament,27.575.238,20.411.449,18.024.611,18.787.280
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,,,,,,II.Credite bugetare,24.207.663,22.155.573,21.175.315,20.721.004
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,01,,,I.Credite de angajament,27.553.944,20.381.229,17.974.376,18.736.940
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,01,,,II.Credite bugetare,24.182.973,22.125.353,21.125.080,20.670.664
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,10,,,I.Credite de angajament,2.834.897,2.905.192,3.049.679,3.262.830
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,10,,,II.Credite bugetare,2.834.897,2.905.192,3.049.679,3.262.830
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,20,,,I.Credite de angajament,5.417.967,5.594.262,5.760.671,5.940.269
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,20,,,II.Credite bugetare,5.413.708,5.590.456,5.757.086,5.934.969
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,51,,,I.Credite de angajament,8.596.660,8.564.983,7.756.747,8.625.672
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,51,,,II.Credite bugetare,7.146.092,7.587.001,7.409.691,7.984.219
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,55,,,I.Credite de angajament,10.000,10.166,10.431,10.639
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,55,,,II.Credite bugetare,10.000,10.166,10.431,10.639
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,56,,,I.Credite de angajament,8.105.579,3.120.722,1.306.741,654.656
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,56,,,II.Credite bugetare,1.700.000,3.592.895,4.659.670,3.235.133
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,57,,,TITLUL IX ASISTENTA SOCIALA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,57,,,I.Credite de angajament,36,37,38,39
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,57,,,II.Credite bugetare,36,37,38,39
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,58,,,I.Credite de angajament,572,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,58,,,II.Credite bugetare,572,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,59,,,I.Credite de angajament,21.000,21.000,21.000,21.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,59,,,II.Credite bugetare,21.000,21.000,21.000,21.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,60,,,I.Credite de angajament,2.439.565,59.500,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,60,,,II.Credite bugetare,6.341.000,2.200.000,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,61,,,I.Credite de angajament,12.668,6.632,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,61,,,II.Credite bugetare,12.668,6.632,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,65,,,TITLUL XIV CHELTUIELI AFERENTE PROGRAMELOR CU FINANTARE RAMBURSABILA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,65,,,I.Credite de angajament,115.000,98.735,69.069,221.835
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,65,,,II.Credite bugetare,703.000,211.974,217.485,221.835
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,70,,,I.Credite de angajament,21.294,30.220,50.235,50.340
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,70,,,II.Credite bugetare,24.690,30.220,50.235,50.340
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,71,,,I.Credite de angajament,21.294,30.220,50.235,50.340
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,  ,  ,71,,,II.Credite bugetare,24.690,30.220,50.235,50.340
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,01,,,,, Administratia centrala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,01,,,,,II.Credite bugetare,953.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,02,,,,, Servicii publice descentralizate,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,02,,,,,II.Credite bugetare,465.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,04,,,,, Servicii medicale in ambulator,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,04,,,,,II.Credite bugetare,16.300,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,04,05,,,,  Asistenta medicala in centre medicale multifunctionale,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,04,05,,,,II.Credite bugetare,16.300,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,06,,,,, Servicii medicale in unitati sanitare cu paturi,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,06,,,,,II.Credite bugetare,272.144,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,06,01,,,,  Spitale generale,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,06,01,,,,II.Credite bugetare,266.302,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,06,06,,,,  Sanatorii balneare si de recuperare,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,06,06,,,,II.Credite bugetare,5.842,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,08,,,,, Servicii de sanatate publica,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,08,,,,,II.Credite bugetare,250.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,09,,,,, Hematologie si securitate transfuzionala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,09,,,,,II.Credite bugetare,450.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,10,,,,, Cercetare aplicativa si dezvoltare experimentala in sanatate,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,10,,,,,II.Credite bugetare,170.125,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,50,,,,, Alte cheltuieli in domeniul sanatatii,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,50,,,,,II.Credite bugetare,21.631.094,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,50,50,,,,  Alte institutii si actiuni sanitare,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6601,50,50,,,,II.Credite bugetare,21.631.094,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,,,,,,"CULTURA, RECREERE SI RELIGIE",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,,,,,,I.Credite de angajament,7.810.075,7.894.932,7.440.470,7.606.023
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,,,,,,II.Credite bugetare,6.621.802,6.820.746,7.210.635,7.379.486
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,01,,,I.Credite de angajament,7.790.171,7.881.302,7.436.990,7.602.773
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,01,,,II.Credite bugetare,6.618.398,6.800.116,7.197.155,7.376.236
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,10,,,I.Credite de angajament,138.902,148.591,155.288,165.133
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,10,,,II.Credite bugetare,138.902,148.591,155.288,165.133
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,20,,,I.Credite de angajament,115.908,149.455,202.720,188.772
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,20,,,II.Credite bugetare,115.908,149.455,202.720,188.772
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,51,,,I.Credite de angajament,1.986.583,2.068.206,2.260.202,2.269.593
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,51,,,II.Credite bugetare,1.650.057,1.795.359,1.984.137,2.005.993
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,55,,,I.Credite de angajament,1.087.415,1.110.209,1.142.785,1.185.787
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,55,,,II.Credite bugetare,1.087.415,1.110.209,1.142.785,1.185.787
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,56,,,I.Credite de angajament,100.272,95.822,75.684,60
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,56,,,II.Credite bugetare,36.844,95.822,75.684,60
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,58,,,I.Credite de angajament,5.243,1.535,1.368,1.150
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,58,,,II.Credite bugetare,5.463,1.535,1.368,1.150
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,59,,,I.Credite de angajament,3.523.809,3.407.985,3.592.943,3.786.266
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,59,,,II.Credite bugetare,3.523.809,3.407.985,3.592.943,3.786.266
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,61,,,I.Credite de angajament,84.480,17.499,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,61,,,II.Credite bugetare,30.000,50.000,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,65,,,TITLUL XIV CHELTUIELI AFERENTE PROGRAMELOR CU FINANTARE RAMBURSABILA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,65,,,I.Credite de angajament,747.559,882.000,6.000,6.012
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,65,,,II.Credite bugetare,30.000,41.160,42.230,43.075
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,70,,,I.Credite de angajament,19.904,13.630,3.480,3.250
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,70,,,II.Credite bugetare,3.404,20.630,13.480,3.250
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,71,,,I.Credite de angajament,19.904,13.630,3.480,3.250
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,  ,  ,71,,,II.Credite bugetare,3.404,20.630,13.480,3.250
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,01,,,,, Administratie centrala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,01,,,,,II.Credite bugetare,95.085,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,02,,,,, Servicii publice descentralizate,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,02,,,,,II.Credite bugetare,28.845,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,,,,, Servicii culturale,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,,,,,II.Credite bugetare,798.098,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,01,,,,  Biblioteci publice nationale,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,01,,,,II.Credite bugetare,28.745,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,03,,,,  Muzee,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,03,,,,II.Credite bugetare,173.611,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,04,,,,  Institutii publice de spectacole si concerte,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,04,,,,II.Credite bugetare,560.879,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,11,,,,  Edituri,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,11,,,,II.Credite bugetare,4.943,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,12,,,,  Consolidarea si restaurarea monumentelor istorice,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,12,,,,II.Credite bugetare,20.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,14,,,,  Centre culturale,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,14,,,,II.Credite bugetare,6.920,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,16,,,,"  Targuri, saloane si expozitii de carte si de publicatii culturale",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,03,16,,,,II.Credite bugetare,3.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,05,,,,, Servicii recreative si sportive,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,05,,,,,II.Credite bugetare,849.693,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,05,01,,,,  Sport,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,05,01,,,,II.Credite bugetare,844.988,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,05,02,,,,  Tineret,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,05,02,,,,II.Credite bugetare,4.705,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,50,,,,," Alte servicii in domeniile culturii, recreerii si religiei",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6701,50,,,,,II.Credite bugetare,4.850.081,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,,,,,,ASIGURARI SI ASISTENTA SOCIALA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,,,,,,I.Credite de angajament,76.482.418,74.697.813,75.706.530,77.847.068
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,,,,,,II.Credite bugetare,76.984.775,74.730.358,75.944.075,78.009.334
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,01,,,I.Credite de angajament,76.452.195,74.682.763,75.696.020,77.842.018
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,01,,,II.Credite bugetare,76.969.552,74.715.308,75.928.565,77.994.284
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,10,,,I.Credite de angajament,632.200,643.335,675.502,722.787
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,10,,,II.Credite bugetare,632.200,643.335,675.502,722.787
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,20,,,I.Credite de angajament,357.025,380.134,399.993,420.185
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,20,,,II.Credite bugetare,355.319,378.393,398.218,418.374
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,40,,,TITLUL IV SUBVENTII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,40,,,I.Credite de angajament,33.000,40.000,40.000,40.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,40,,,II.Credite bugetare,33.000,40.000,40.000,40.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,51,,,I.Credite de angajament,1.172.184,1.276.650,1.319.715,1.360.157
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,51,,,II.Credite bugetare,1.172.184,1.276.650,1.319.715,1.360.157
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,55,,,I.Credite de angajament,8.000,7.263,7.462,7.620
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,55,,,II.Credite bugetare,8.000,7.263,7.462,7.620
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,56,,,I.Credite de angajament,1.348.926,1.140.223,940.166,845.923
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,56,,,II.Credite bugetare,1.200.000,1.174.509,1.174.486,1.000.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,57,,,TITLUL IX ASISTENTA SOCIALA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,57,,,I.Credite de angajament,72.316.942,70.834.782,72.131.668,74.263.623
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,57,,,II.Credite bugetare,72.216.942,70.834.782,72.131.668,74.263.623
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,58,,,I.Credite de angajament,100,200,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,58,,,II.Credite bugetare,100,200,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,59,,,I.Credite de angajament,252.198,181.305,181.514,181.723
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,59,,,II.Credite bugetare,252.198,181.305,181.514,181.723
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,60,,,I.Credite de angajament,301.557,59.840,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,60,,,II.Credite bugetare,937.500,59.840,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,61,,,I.Credite de angajament,30.063,119.031,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,61,,,II.Credite bugetare,162.109,119.031,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,70,,,I.Credite de angajament,30.223,15.050,10.510,5.050
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,70,,,II.Credite bugetare,15.223,15.050,15.510,15.050
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,71,,,I.Credite de angajament,30.223,15.050,10.510,5.050
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,  ,  ,71,,,II.Credite bugetare,15.223,15.050,15.510,15.050
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,01,,,,, Administratie centrala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,01,,,,,II.Credite bugetare,2.596.520,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,02,,,,, Servicii publice descentralizate,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,02,,,,,II.Credite bugetare,590.193,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,03,,,,, Pensii si ajutoare pentru batranete,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,03,,,,,II.Credite bugetare,34.907.293,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,05,,,,, Asistenta sociala in caz de boli si invaliditati,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,05,,,,,II.Credite bugetare,7.512.490,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,05,02,,,,  Asistenta sociala in caz de invaliditate,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,05,02,,,,II.Credite bugetare,7.512.490,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,06,,,,, Asistenta sociala pentru familie si copii,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,06,,,,,II.Credite bugetare,25.125.112,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,08,,,,," Ajutoare la trecerea in rezerva, retragere sau pensionare",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,08,,,,,II.Credite bugetare,115.934,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,09,,,,, Ajutoare pentru urmasi,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,09,,,,,II.Credite bugetare,29.041,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,15,,,,, Prevenirea excluderii sociale,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,15,,,,,II.Credite bugetare,5.022.824,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,15,01,,,,  Ajutor social,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,15,01,,,,II.Credite bugetare,4.767.796,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,15,03,,,,  Centre de primire si cazare a persoanelor solicitante a statutului de refugiat,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,15,03,,,,II.Credite bugetare,10.992,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,15,50,,,,  Alte cheltuieli in domeniul prevenirii excluderii sociale,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,15,50,,,,II.Credite bugetare,244.036,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,50,,,,, Alte cheltuieli in domeniul asigurarilor si asistentei sociale,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,50,,,,,II.Credite bugetare,1.085.368,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,50,50,,,, Alte cheltuieli in domeniul asistentei sociale,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,6801,50,50,,,,II.Credite bugetare,1.085.368,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,,,,"Partea a IV-a SERVICII SI DEZVOLTARE PUBLICA, LOCUINTE, MEDIU SI APE",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,,,,I.Credite de angajament,46.736.098,21.464.726,13.401.760,11.687.714
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,,,,II.Credite bugetare,22.471.434,18.941.409,19.690.161,18.091.808
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,01,,,I.Credite de angajament,44.326.798,21.187.317,13.120.355,11.407.127
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,01,,,II.Credite bugetare,22.124.534,18.662.227,19.411.946,17.814.566
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,10,,,I.Credite de angajament,416.425,418.221,440.732,473.234
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,10,,,II.Credite bugetare,416.425,418.221,440.732,473.234
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,20,,,I.Credite de angajament,52.380,51.900,52.400,53.400
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,20,,,II.Credite bugetare,52.380,51.900,52.400,53.400
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,30,,,TITLUL III DOBANZI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,30,,,I.Credite de angajament,353,353,353,353
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,30,,,II.Credite bugetare,353,353,353,353
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,40,,,TITLUL IV SUBVENTII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,40,,,I.Credite de angajament,378,389,399,407
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,40,,,II.Credite bugetare,378,389,399,407
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE  ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,51,,,I.Credite de angajament,25.814.658,9.516.596,4.052.492,3.452.896
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,51,,,II.Credite bugetare,13.197.183,8.274.975,9.448.909,8.097.242
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,55,,,I.Credite de angajament,3.852.500,6.249.073,6.250.074,6.251.029
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,55,,,II.Credite bugetare,2.547.500,2.106.777,2.161.286,2.204.517
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,56,,,I.Credite de angajament,4.318.863,3.671.544,2.046.584,903.375
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,56,,,II.Credite bugetare,2.759.761,3.614.176,6.020.482,5.696.100
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,58,,,I.Credite de angajament,1.168.740,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,58,,,II.Credite bugetare,490.922,12.955,200,200
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,59,,,I.Credite de angajament,20.956,19.000,19.000,19.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,59,,,II.Credite bugetare,20.956,19.000,19.000,19.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,60,,,I.Credite de angajament,1.803.168,256.142,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,60,,,II.Credite bugetare,1.250.676,1.130.848,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,61,,,I.Credite de angajament,5.984.281,713.396,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,61,,,II.Credite bugetare,1.000.000,2.792.821,1.000.000,1.000.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,65,,,TITLUL XIV CHELTUIELI AFERENTE PROGRAMELOR CU FINANTARE RAMBURSABILA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,65,,,I.Credite de angajament,894.096,290.703,258.321,253.433
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,65,,,II.Credite bugetare,388.000,239.812,268.185,270.113
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,70,,,I.Credite de angajament,2.406.800,276.127,280.090,279.245
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,70,,,II.Credite bugetare,344.400,277.900,276.900,275.900
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,71,,,I.Credite de angajament,2.406.800,276.127,280.090,279.245
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,71,,,II.Credite bugetare,344.400,277.900,276.900,275.900
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,79,,,OPERATIUNI FINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,79,,,I.Credite de angajament,2.500,1.282,1.315,1.342
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,79,,,II.Credite bugetare,2.500,1.282,1.315,1.342
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,81,,,TITLUL XIX RAMBURSARI DE CREDITE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,81,,,I.Credite de angajament,2.500,1.282,1.315,1.342
+BUGETUL DE STAT,Anexa nr.1,00,Total,7000,01,  ,81,,,II.Credite bugetare,2.500,1.282,1.315,1.342
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,,,,,,"LOCUINTE, SERVICII SI DEZVOLTARE PUBLICA",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,,,,,,I.Credite de angajament,32.983.949,16.184.524,10.763.561,10.107.240
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,,,,,,II.Credite bugetare,17.337.369,11.484.442,12.305.362,10.718.609
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,01,,,I.Credite de angajament,30.605.949,15.952.524,10.531.561,9.874.740
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,01,,,II.Credite bugetare,17.020.669,11.255.469,12.078.152,10.489.454
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,20,,,I.Credite de angajament,9.680,9.900,9.900,9.900
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,20,,,II.Credite bugetare,9.680,9.900,9.900,9.900
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,40,,,TITLUL IV SUBVENTII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,40,,,I.Credite de angajament,378,389,399,407
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,40,,,II.Credite bugetare,378,389,399,407
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,51,,,I.Credite de angajament,25.374.000,9.361.486,4.011.000,3.411.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,51,,,II.Credite bugetare,13.149.000,8.219.151,9.407.417,8.055.346
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,55,,,I.Credite de angajament,3.805.500,6.200.046,6.200.046,6.200.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,55,,,II.Credite bugetare,2.500.500,2.057.750,2.111.258,2.153.488
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,56,,,I.Credite de angajament,431.832,90.000,51.895,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,56,,,II.Credite bugetare,871.904,715.512,280.793,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,58,,,I.Credite de angajament,90.463,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,58,,,II.Credite bugetare,101.207,12.955,200,200
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,65,,,TITLUL XIV CHELTUIELI AFERENTE PROGRAMELOR CU FINANTARE RAMBURSABILA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,65,,,I.Credite de angajament,894.096,290.703,258.321,253.433
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,65,,,II.Credite bugetare,388.000,239.812,268.185,270.113
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,70,,,I.Credite de angajament,2.378.000,232.000,232.000,232.500
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,70,,,II.Credite bugetare,316.700,228.973,227.210,229.155
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,71,,,I.Credite de angajament,2.378.000,232.000,232.000,232.500
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,  ,  ,71,,,II.Credite bugetare,316.700,228.973,227.210,229.155
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,03,,,,, Locuinte,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,03,,,,,II.Credite bugetare,5.302.278,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,03,01,,,,  Dezvoltarea sistemului de locuinte,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,03,01,,,,II.Credite bugetare,5.302.278,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,05,,,,, Alimentare cu apa si amenajari hidrotehnice,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,05,,,,,II.Credite bugetare,1.166.091,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,05,02,,,,  Amenajari hidrotehnice,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,05,02,,,,II.Credite bugetare,1.166.091,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,50,,,,," Alte servicii in domeniile locuintelor, serviciilor si dezvoltarii comunale",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7001,50,,,,,II.Credite bugetare,10.869.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,,,,,,PROTECTIA MEDIULUI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,,,,,,I.Credite de angajament,13.752.149,5.280.202,2.638.199,1.580.474
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,,,,,,II.Credite bugetare,5.134.065,7.456.967,7.384.799,7.373.199
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,01,,,I.Credite de angajament,13.720.849,5.234.793,2.588.794,1.532.387
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,01,,,II.Credite bugetare,5.103.865,7.406.758,7.333.794,7.325.112
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,10,,,I.Credite de angajament,416.425,418.221,440.732,473.234
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,10,,,II.Credite bugetare,416.425,418.221,440.732,473.234
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,20,,,I.Credite de angajament,42.700,42.000,42.500,43.500
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,20,,,II.Credite bugetare,42.700,42.000,42.500,43.500
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,30,,,TITLUL III DOBANZI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,30,,,I.Credite de angajament,353,353,353,353
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,30,,,II.Credite bugetare,353,353,353,353
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,51,,,I.Credite de angajament,440.658,155.110,41.492,41.896
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,51,,,II.Credite bugetare,48.183,55.824,41.492,41.896
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,55,,,I.Credite de angajament,47.000,49.027,50.028,51.029
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,55,,,II.Credite bugetare,47.000,49.027,50.028,51.029
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,56,,,I.Credite de angajament,3.887.031,3.581.544,1.994.689,903.375
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,56,,,II.Credite bugetare,1.887.857,2.898.664,5.739.689,5.696.100
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,58,,,I.Credite de angajament,1.078.277,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,58,,,II.Credite bugetare,389.715,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,59,,,I.Credite de angajament,20.956,19.000,19.000,19.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,59,,,II.Credite bugetare,20.956,19.000,19.000,19.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,60,,,I.Credite de angajament,1.803.168,256.142,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,60,,,II.Credite bugetare,1.250.676,1.130.848,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,61,,,I.Credite de angajament,5.984.281,713.396,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,61,,,II.Credite bugetare,1.000.000,2.792.821,1.000.000,1.000.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,70,,,I.Credite de angajament,28.800,44.127,48.090,46.745
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,70,,,II.Credite bugetare,27.700,48.927,49.690,46.745
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,71,,,I.Credite de angajament,28.800,44.127,48.090,46.745
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,71,,,II.Credite bugetare,27.700,48.927,49.690,46.745
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,79,,,OPERATIUNI FINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,79,,,I.Credite de angajament,2.500,1.282,1.315,1.342
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,79,,,II.Credite bugetare,2.500,1.282,1.315,1.342
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,81,,,TITLUL XIX RAMBURSARI DE CREDITE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,81,,,I.Credite de angajament,2.500,1.282,1.315,1.342
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,  ,  ,81,,,II.Credite bugetare,2.500,1.282,1.315,1.342
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,01,,,,, Administratie centrala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,01,,,,,II.Credite bugetare,2.283.051,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,03,,,,, Reducerea si controlul poluarii,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,7401,03,,,,,II.Credite bugetare,2.851.014,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,,,,Partea a V-a ACTIUNI ECONOMICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,,,,I.Credite de angajament,203.130.509,52.247.574,38.562.798,39.342.909
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,,,,II.Credite bugetare,81.353.791,79.893.176,63.697.957,59.655.292
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,01,,,I.Credite de angajament,199.383.562,51.960.322,38.269.981,39.045.224
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,01,,,II.Credite bugetare,77.650.398,79.605.924,63.405.140,59.357.607
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,10,,,I.Credite de angajament,1.119.282,1.258.553,1.319.434,1.408.334
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,10,,,II.Credite bugetare,1.119.282,1.258.553,1.319.434,1.408.334
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,20,,,I.Credite de angajament,276.377,294.284,304.058,313.764
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,20,,,II.Credite bugetare,276.377,294.284,304.058,313.764
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,30,,,TITLUL III DOBANZI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,30,,,I.Credite de angajament,11.000,11.000,11.000,11.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,30,,,II.Credite bugetare,11.000,11.000,11.000,11.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,40,,,TITLUL IV SUBVENTII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,40,,,I.Credite de angajament,10.671.249,5.947.051,5.089.390,5.185.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,40,,,II.Credite bugetare,7.555.495,5.992.051,5.089.390,5.185.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE  ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,51,,,I.Credite de angajament,17.079.986,12.368.262,10.687.344,10.600.063
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,51,,,II.Credite bugetare,10.527.878,9.619.252,9.790.620,9.946.711
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,55,,,I.Credite de angajament,8.333.827,4.290.127,2.772.564,2.678.548
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,55,,,II.Credite bugetare,3.154.397,3.437.949,3.531.107,3.533.224
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,56,,,I.Credite de angajament,134.588.258,26.397.324,17.437.920,17.702.637
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,56,,,II.Credite bugetare,29.297.404,36.324.986,37.191.351,35.108.975
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,58,,,I.Credite de angajament,14.157.799,725.430,437.053,1.032.867
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,58,,,II.Credite bugetare,6.291.591,1.353.180,540.401,1.136.065
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,59,,,I.Credite de angajament,102.004,108.209,110.882,113.011
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,59,,,II.Credite bugetare,103.293,108.190,110.882,113.011
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,60,,,I.Credite de angajament,6.559.799,161.901,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,60,,,II.Credite bugetare,8.879.656,12.491.271,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,61,,,I.Credite de angajament,2.921.946,180.000,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,61,,,II.Credite bugetare,9.913.325,8.407.219,5.228.238,2.307.655
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,65,,,TITLUL XIV CHELTUIELI AFERENTE PROGRAMELOR CU FINANTARE RAMBURSABILA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,65,,,I.Credite de angajament,3.562.035,218.181,100.336,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,65,,,II.Credite bugetare,520.700,307.989,288.659,293.868
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,70,,,I.Credite de angajament,3.228.228,154.829,156.977,159.148
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,70,,,II.Credite bugetare,3.184.674,154.829,156.977,159.148
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,71,,,I.Credite de angajament,228.228,154.829,156.977,159.148
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,71,,,II.Credite bugetare,184.674,154.829,156.977,159.148
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,72,,,TITLUL XVI ACTIVE FINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,72,,,I.Credite de angajament,3.000.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,72,,,II.Credite bugetare,3.000.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,79,,,OPERATIUNI FINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,79,,,I.Credite de angajament,518.719,132.423,135.840,138.537
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,79,,,II.Credite bugetare,518.719,132.423,135.840,138.537
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,80,,,TITLUL XVIII IMPRUMUTURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,80,,,I.Credite de angajament,391.000,1.000,1.000,1.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,80,,,II.Credite bugetare,391.000,1.000,1.000,1.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,81,,,TITLUL XIX RAMBURSARI DE CREDITE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,81,,,I.Credite de angajament,127.719,131.423,134.840,137.537
+BUGETUL DE STAT,Anexa nr.1,00,Total,8000,01,  ,81,,,II.Credite bugetare,127.719,131.423,134.840,137.537
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,,,,,,"ACTIUNI GENERALE ECONOMICE, COMERCIALE SI DE MUNCA",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,,,,,,I.Credite de angajament,13.679.020,1.785.100,882.147,831.695
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,,,,,,II.Credite bugetare,9.991.241,9.003.080,4.307.224,3.281.552
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,01,,,I.Credite de angajament,13.238.020,1.730.100,826.147,774.695
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,01,,,II.Credite bugetare,9.550.241,8.948.080,4.251.224,3.224.552
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,20,,,I.Credite de angajament,128.670,126.356,127.348,128.369
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,20,,,II.Credite bugetare,128.670,126.356,127.348,128.369
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,40,,,TITLUL IV SUBVENTII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,40,,,I.Credite de angajament,4.677.107,17.264,54.603,45.213
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,40,,,II.Credite bugetare,1.594.353,62.264,54.603,45.213
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,51,,,I.Credite de angajament,23.705,26.441,27.224,27.941
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,51,,,II.Credite bugetare,23.705,26.441,27.224,27.941
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,55,,,I.Credite de angajament,3.529.717,1.300.925,562.108,556.817
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,55,,,II.Credite bugetare,1.489.502,1.671.170,1.745.413,1.732.206
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,56,,,I.Credite de angajament,735.842,259.114,54.864,16.355
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,56,,,II.Credite bugetare,507.091,221.140,53.589,47.776
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,58,,,I.Credite de angajament,1.841.018,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,58,,,II.Credite bugetare,1.106.920,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,60,,,I.Credite de angajament,1.972.500,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,60,,,II.Credite bugetare,1.900.000,4.598.938,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,61,,,I.Credite de angajament,329.461,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,61,,,II.Credite bugetare,2.800.000,2.241.771,2.243.047,1.243.047
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,70,,,I.Credite de angajament,51.000,55.000,56.000,57.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,70,,,II.Credite bugetare,51.000,55.000,56.000,57.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,71,,,I.Credite de angajament,51.000,55.000,56.000,57.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,71,,,II.Credite bugetare,51.000,55.000,56.000,57.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,79,,,OPERATIUNI FINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,79,,,I.Credite de angajament,390.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,79,,,II.Credite bugetare,390.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,80,,,TITLUL XVIII IMPRUMUTURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,80,,,I.Credite de angajament,390.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,  ,  ,80,,,II.Credite bugetare,390.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,,,,, Actiuni generale economice si comerciale,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,,,,,II.Credite bugetare,9.991.241,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,01,,,,  Administratie centrala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,01,,,,II.Credite bugetare,23.705,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,03,,,,  Meteorologie,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,03,,,,II.Credite bugetare,173.478,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,05,,,,  Sistemul national antigrindina,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,05,,,,II.Credite bugetare,226.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,07,,,,"  Sustinerea exportului, a mediului de afaceri si a tranzactiilor internationale",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,07,,,,II.Credite bugetare,484.353,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,10,,,,  Programe de dezvoltare regionala si sociala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,10,,,,II.Credite bugetare,5.915.464,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,11,,,,  Rezerve de stat si de mobilizare,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,11,,,,II.Credite bugetare,67.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,12,,,, Ajutoare de stat,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,12,,,,II.Credite bugetare,907.944,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,30,,,,  Alte cheltuieli pentru actiuni generale economice si comerciale,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8001,01,30,,,,II.Credite bugetare,2.193.297,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8101,,,,,,COMBUSTIBILI SI ENERGIE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8101,,,,,,I.Credite de angajament,510.315,416.255,396.895,375.599
+BUGETUL DE STAT,Anexa nr.1,00,Total,8101,,,,,,II.Credite bugetare,510.315,416.255,396.895,375.599
+BUGETUL DE STAT,Anexa nr.1,00,Total,8101,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8101,  ,  ,01,,,I.Credite de angajament,510.315,416.255,396.895,375.599
+BUGETUL DE STAT,Anexa nr.1,00,Total,8101,  ,  ,01,,,II.Credite bugetare,510.315,416.255,396.895,375.599
+BUGETUL DE STAT,Anexa nr.1,00,Total,8101,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8101,  ,  ,20,,,I.Credite de angajament,500,515,515,515
+BUGETUL DE STAT,Anexa nr.1,00,Total,8101,  ,  ,20,,,II.Credite bugetare,500,515,515,515
+BUGETUL DE STAT,Anexa nr.1,00,Total,8101,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8101,  ,  ,55,,,I.Credite de angajament,509.815,415.740,396.380,375.084
+BUGETUL DE STAT,Anexa nr.1,00,Total,8101,  ,  ,55,,,II.Credite bugetare,509.815,415.740,396.380,375.084
+BUGETUL DE STAT,Anexa nr.1,00,Total,8101,50,,,,, Alte cheltuieli privind combustibili si energia,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8101,50,,,,,II.Credite bugetare,510.315,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,,,,,,"INDUSTRIA EXTRACTIVA, PRELUCRATOARE SI CONSTRUCTII",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,,,,,,I.Credite de angajament,1.188.000,255.687,260.787,265.787
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,,,,,,II.Credite bugetare,1.188.000,255.687,260.787,265.787
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,  ,  ,01,,,I.Credite de angajament,188.000,255.687,260.787,265.787
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,  ,  ,01,,,II.Credite bugetare,188.000,255.687,260.787,265.787
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,  ,  ,40,,,TITLUL IV SUBVENTII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,  ,  ,40,,,I.Credite de angajament,80.000,129.787,134.787,139.787
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,  ,  ,40,,,II.Credite bugetare,80.000,129.787,134.787,139.787
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,  ,  ,55,,,I.Credite de angajament,108.000,125.900,126.000,126.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,  ,  ,55,,,II.Credite bugetare,108.000,125.900,126.000,126.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,  ,  ,70,,,I.Credite de angajament,1.000.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,  ,  ,70,,,II.Credite bugetare,1.000.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,  ,  ,72,,,TITLUL XVI ACTIVE FINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,  ,  ,72,,,I.Credite de angajament,1.000.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,  ,  ,72,,,II.Credite bugetare,1.000.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,50,,,,, Alte cheltuieli in domeniul industriei,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8201,50,,,,,II.Credite bugetare,1.188.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,,,,,,"AGRICULTURA, SILVICULTURA, PISCICULTURA SI VANATOARE",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,,,,,,I.Credite de angajament,38.326.959,28.854.550,26.235.895,26.544.333
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,,,,,,II.Credite bugetare,26.010.949,26.517.902,25.551.160,25.793.680
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,01,,,I.Credite de angajament,38.151.781,28.783.450,26.164.795,26.473.233
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,01,,,II.Credite bugetare,25.879.325,26.446.802,25.480.060,25.722.580
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,10,,,I.Credite de angajament,1.031.000,1.128.350,1.183.168,1.264.339
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,10,,,II.Credite bugetare,1.031.000,1.128.350,1.183.168,1.264.339
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,20,,,I.Credite de angajament,115.520,128.213,136.317,144.180
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,20,,,II.Credite bugetare,115.520,128.213,136.317,144.180
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,40,,,TITLUL IV SUBVENTII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,40,,,I.Credite de angajament,2.214.142,2.500.000,1.500.000,1.500.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,40,,,II.Credite bugetare,2.181.142,2.500.000,1.500.000,1.500.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,51,,,I.Credite de angajament,8.860.489,7.453.818,5.790.550,5.703.824
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,51,,,II.Credite bugetare,4.973.903,4.630.061,4.811.741,4.928.387
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,55,,,I.Credite de angajament,313.542,206.219,204.940,203.653
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,55,,,II.Credite bugetare,208.542,206.219,204.940,203.653
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,56,,,I.Credite de angajament,16.949.162,17.191.813,17.191.131,17.597.768
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,56,,,II.Credite bugetare,13.573.725,17.581.432,17.393.486,17.425.486
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,58,,,I.Credite de angajament,8.360.118,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,58,,,II.Credite bugetare,3.505.000,106.175,103.348,103.198
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,59,,,I.Credite de angajament,48.601,57.048,58.401,59.469
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,59,,,II.Credite bugetare,48.601,57.048,58.401,59.469
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,60,,,I.Credite de angajament,105.032,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,60,,,II.Credite bugetare,105.032,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,61,,,I.Credite de angajament,124.175,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,61,,,II.Credite bugetare,122.860,1.315,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,65,,,TITLUL XIV CHELTUIELI AFERENTE PROGRAMELOR CU FINANTARE RAMBURSABILA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,65,,,I.Credite de angajament,30.000,117.989,100.288,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,65,,,II.Credite bugetare,14.000,107.989,88.659,93.868
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,70,,,I.Credite de angajament,174.178,70.100,70.100,70.100
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,70,,,II.Credite bugetare,130.624,70.100,70.100,70.100
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,71,,,I.Credite de angajament,174.178,70.100,70.100,70.100
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,71,,,II.Credite bugetare,130.624,70.100,70.100,70.100
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,79,,,OPERATIUNI FINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,79,,,I.Credite de angajament,1.000,1.000,1.000,1.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,79,,,II.Credite bugetare,1.000,1.000,1.000,1.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,80,,,TITLUL XVIII IMPRUMUTURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,80,,,I.Credite de angajament,1.000,1.000,1.000,1.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,  ,  ,80,,,II.Credite bugetare,1.000,1.000,1.000,1.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,01,,,,, Administratie centrala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,01,,,,,II.Credite bugetare,209.779,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,02,,,,, Servicii publice descentralizate,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,02,,,,,II.Credite bugetare,1.320.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,03,,,,, Agricultura,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,03,,,,,II.Credite bugetare,5.570.486,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,03,02,,,,"  Imbunatatiri funciare, irigatii, desecari si combaterea eroziunii solului",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,03,02,,,,II.Credite bugetare,1.724.400,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,03,03,,,,  Protectia plantelor si carantina fitosanitara,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,03,03,,,,II.Credite bugetare,84.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,03,04,,,,  Programe pentru sprijinirea producatorilor agricoli,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,03,04,,,,II.Credite bugetare,3.596.857,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,03,05,,,,  Reproductia si selectia animalelor,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,03,05,,,,II.Credite bugetare,55.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,03,30,,,,  Alte cheltuieli in domeniul agriculturii,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,03,30,,,,II.Credite bugetare,110.229,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,04,,,,, Sivilcultura,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,04,,,,,II.Credite bugetare,378.423,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,50,,,,," Alte cheltuieli in domeniul agriculturii, silviculturii, pisciculturii si vanatorii",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8301,50,,,,,II.Credite bugetare,18.532.261,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,,,,,,TRANSPORTURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,,,,,,I.Credite de angajament,148.071.202,19.811.685,9.997.236,10.511.542
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,,,,,,II.Credite bugetare,42.380.811,42.388.417,32.342.053,29.034.721
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,01,,,I.Credite de angajament,145.942.483,19.677.262,9.859.396,10.371.005
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,01,,,II.Credite bugetare,40.252.092,42.253.994,32.204.213,28.894.184
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,10,,,I.Credite de angajament,65.550,68.828,72.269,77.328
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,10,,,II.Credite bugetare,65.550,68.828,72.269,77.328
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,20,,,I.Credite de angajament,13.297,13.736,14.148,14.573
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,20,,,II.Credite bugetare,13.297,13.736,14.148,14.573
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,30,,,TITLUL III DOBANZI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,30,,,I.Credite de angajament,11.000,11.000,11.000,11.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,30,,,II.Credite bugetare,11.000,11.000,11.000,11.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,40,,,TITLUL IV SUBVENTII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,40,,,I.Credite de angajament,3.700.000,3.300.000,3.400.000,3.500.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,40,,,II.Credite bugetare,3.700.000,3.300.000,3.400.000,3.500.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,51,,,I.Credite de angajament,7.770.457,4.467.188,4.464.850,4.464.850
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,51,,,II.Credite bugetare,5.044.935,4.496.935,4.496.935,4.496.935
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,55,,,I.Credite de angajament,3.720.105,1.995.089,1.217.517,1.129.323
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,55,,,II.Credite bugetare,685.890,772.666,792.755,808.610
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,56,,,I.Credite de angajament,116.896.404,8.942.150,190.562,88.076
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,56,,,II.Credite bugetare,15.209.738,18.518.167,19.742.913,17.635.275
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,58,,,I.Credite de angajament,3.951.980,723.989,437.053,1.032.867
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,58,,,II.Credite bugetare,1.674.988,1.245.564,437.053,1.032.867
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,59,,,I.Credite de angajament,52.916,50.651,51.949,52.988
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,59,,,II.Credite bugetare,54.205,50.632,51.949,52.988
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,60,,,I.Credite de angajament,3.839.729,4.439,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,60,,,II.Credite bugetare,6.374.624,7.592.333,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,61,,,I.Credite de angajament,2.389.010,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,61,,,II.Credite bugetare,6.911.165,5.984.133,2.985.191,1.064.608
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,65,,,TITLUL XIV CHELTUIELI AFERENTE PROGRAMELOR CU FINANTARE RAMBURSABILA,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,65,,,I.Credite de angajament,3.532.035,100.192,48,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,65,,,II.Credite bugetare,506.700,200.000,200.000,200.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,70,,,I.Credite de angajament,2.001.000,3.000,3.000,3.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,70,,,II.Credite bugetare,2.001.000,3.000,3.000,3.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,71,,,I.Credite de angajament,1.000,3.000,3.000,3.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,71,,,II.Credite bugetare,1.000,3.000,3.000,3.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,72,,,TITLUL XVI ACTIVE FINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,72,,,I.Credite de angajament,2.000.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,72,,,II.Credite bugetare,2.000.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,79,,,OPERATIUNI FINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,79,,,I.Credite de angajament,127.719,131.423,134.840,137.537
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,79,,,II.Credite bugetare,127.719,131.423,134.840,137.537
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,81,,,TITLUL XIX RAMBURSARI DE CREDITE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,81,,,I.Credite de angajament,127.719,131.423,134.840,137.537
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,  ,  ,81,,,II.Credite bugetare,127.719,131.423,134.840,137.537
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,01,,,,, Administratie centrala,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,01,,,,,II.Credite bugetare,2.972.897,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,03,,,,, Transport rutier,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,03,,,,,II.Credite bugetare,19.479.291,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,03,01,,,,  Drumuri si poduri,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,03,01,,,,II.Credite bugetare,19.479.291,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,04,,,,, Transport feroviar,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,04,,,,,II.Credite bugetare,18.767.404,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,04,01,,,,  Transport pe cale ferata,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,04,01,,,,II.Credite bugetare,16.374.604,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,04,02,,,,  Transport cu metroul,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,04,02,,,,II.Credite bugetare,2.392.800,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,05,,,,, Transport pe apa,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,05,,,,,II.Credite bugetare,860.509,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,06,,,,, Transport aerian,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,06,,,,,II.Credite bugetare,288.550,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,06,02,,,,  Aviatia civila,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,06,02,,,,II.Credite bugetare,288.550,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,50,,,,, Alte cheltuieli in domeniul transporturilor,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8401,50,,,,,II.Credite bugetare,12.160,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,,,,,,COMUNICATII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,,,,,,I.Credite de angajament,887.981,557.079,219.355,223.446
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,,,,,,II.Credite bugetare,745.443,699.617,219.355,223.446
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,01,,,I.Credite de angajament,885.931,530.350,191.478,194.398
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,01,,,II.Credite bugetare,743.393,672.888,191.478,194.398
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,10,,,TITLUL I CHELTUIELI DE PERSONAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,10,,,I.Credite de angajament,22.732,61.375,63.997,66.667
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,10,,,II.Credite bugetare,22.732,61.375,63.997,66.667
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,20,,,I.Credite de angajament,1.587,8.661,8.927,9.324
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,20,,,II.Credite bugetare,1.587,8.661,8.927,9.324
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,51,,,I.Credite de angajament,95.335,69.000,69.000,69.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,51,,,II.Credite bugetare,95.335,69.000,69.000,69.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,55,,,I.Credite de angajament,47.648,47.654,47.659,48.415
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,55,,,II.Credite bugetare,47.648,47.654,47.659,48.415
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,56,,,TITLUL VIII PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE (FEN) POSTADERARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,56,,,I.Credite de angajament,6.850,4.247,1.363,438
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,56,,,II.Credite bugetare,6.850,4.247,1.363,438
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,58,,,TITLUL X PROIECTE CU FINANTARE DIN FONDURI EXTERNE NERAMBURSABILE AFERENTE CADRULUI FINANCIAR 2014-2020 SI DIN FONDUL DE MODERNIZARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,58,,,I.Credite de angajament,4.683,1.441,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,58,,,II.Credite bugetare,4.683,1.441,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,59,,,TITLUL XI  ALTE CHELTUIELI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,59,,,I.Credite de angajament,487,510,532,554
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,59,,,II.Credite bugetare,487,510,532,554
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,60,,,TITLUL XII PROIECTE CU FINANTARE DIN SUMELE REPREZENTAND ASISTENTA FINANCIARA NERAMBURSABILA AFERENTA PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,60,,,I.Credite de angajament,642.538,157.462,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,60,,,II.Credite bugetare,500.000,300.000,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,61,,,I.Credite de angajament,64.071,180.000,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,61,,,II.Credite bugetare,64.071,180.000,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,70,,,CHELTUIELI DE CAPITAL,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,70,,,I.Credite de angajament,2.050,26.729,27.877,29.048
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,70,,,II.Credite bugetare,2.050,26.729,27.877,29.048
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,71,,,TITLUL XV ACTIVE NEFINANCIARE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,71,,,I.Credite de angajament,2.050,26.729,27.877,29.048
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,  ,  ,71,,,II.Credite bugetare,2.050,26.729,27.877,29.048
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,01,,,,, Comunicatii,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8501,01,,,,,II.Credite bugetare,745.443,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,,,,,,CERCETARE SI DEZVOLTARE IN DOMENIUL ECONOMIC,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,,,,,,I.Credite de angajament,440.229,540.415,543.680,563.704
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,,,,,,II.Credite bugetare,500.229,585.415,593.680,653.704
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,  ,  ,01,,,I.Credite de angajament,440.229,540.415,543.680,563.704
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,  ,  ,01,,,II.Credite bugetare,500.229,585.415,593.680,653.704
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,  ,  ,51,,,I.Credite de angajament,320.000,341.815,325.720,324.448
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,  ,  ,51,,,II.Credite bugetare,380.000,386.815,375.720,414.448
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,  ,  ,55,,,TITLUL VII ALTE TRANSFERURI,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,  ,  ,55,,,I.Credite de angajament,105.000,198.600,217.960,239.256
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,  ,  ,55,,,II.Credite bugetare,105.000,198.600,217.960,239.256
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,  ,  ,61,,,TITLUL XIII PROIECTE CU FINANTARE DIN SUMELE AFERENTE COMPONENTEI DE IMPRUMUT A PNRR,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,  ,  ,61,,,I.Credite de angajament,15.229,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,  ,  ,61,,,II.Credite bugetare,15.229,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,02,,,,," Cercetare si dezvoltare in domeniul agriculturii, silviculturii, pisciculturii si vanatorii",,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,02,,,,,II.Credite bugetare,395.229,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,03,,,,, Cercetare si dezvoltare in domeniul combustibilului si energiei,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8601,03,,,,,II.Credite bugetare,105.000,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8701,,,,,,ALTE ACTIUNI ECONOMICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8701,,,,,,I.Credite de angajament,26.803,26.803,26.803,26.803
+BUGETUL DE STAT,Anexa nr.1,00,Total,8701,,,,,,II.Credite bugetare,26.803,26.803,26.803,26.803
+BUGETUL DE STAT,Anexa nr.1,00,Total,8701,  ,  ,01,,,CHELTUIELI CURENTE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8701,  ,  ,01,,,I.Credite de angajament,26.803,26.803,26.803,26.803
+BUGETUL DE STAT,Anexa nr.1,00,Total,8701,  ,  ,01,,,II.Credite bugetare,26.803,26.803,26.803,26.803
+BUGETUL DE STAT,Anexa nr.1,00,Total,8701,  ,  ,20,,,TITLUL II BUNURI SI SERVICII,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8701,  ,  ,20,,,I.Credite de angajament,16.803,16.803,16.803,16.803
+BUGETUL DE STAT,Anexa nr.1,00,Total,8701,  ,  ,20,,,II.Credite bugetare,16.803,16.803,16.803,16.803
+BUGETUL DE STAT,Anexa nr.1,00,Total,8701,  ,  ,51,,,TITLUL VI TRANSFERURI INTRE UNITATI ALE ADMINISTRATIEI PUBLICE,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8701,  ,  ,51,,,I.Credite de angajament,10.000,10.000,10.000,10.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8701,  ,  ,51,,,II.Credite bugetare,10.000,10.000,10.000,10.000
+BUGETUL DE STAT,Anexa nr.1,00,Total,8701,04,,,,, Turism,,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,8701,04,,,,,II.Credite bugetare,26.803,,,
+BUGETUL DE STAT,Anexa nr.1,00,Total,9901,,,,,,DEFICIT,-142.229.947,-137.297.372,-137.984.298,-132.284.830
